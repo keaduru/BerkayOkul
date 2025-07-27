@@ -32,49 +32,44 @@ Bu repo, Berkay'ın üniversite tercih sürecinde doğru kararı vermesine yard�
 4. **Kişisel Değerlendirme**: Berkay'ın ilgi alanlarına göre uygunluk analizleri yapılmıştır
 5. **YKS Sonuçları**: [Berkay'ın 2024 YKS puan ve sıralama bilgileri](./berkay-yks-sonuclari.md)
 6. **🎯 Tercih Stratejisi**: [Berkay'ın puanlarına göre detaylı tercih rehberi](./tercih-stratejisi.md)
+7. **📚 Ek Bölüm Önerileri**: [Puanlarına uygun diğer bölüm seçenekleri](./ek-bolum-onerileri.md)
 
 ## 📊 Hızlı Karşılaştırma Tablosu
 
-| Bölüm | En Düşük Devlet Sıralaması | En Düşük Özel Burs | Berkay'ın Durumu | Yerleşme Şansı |
-|-------|---------------------------|-------------------|------------------|----------------|
-| **Yeni Medya** | ~420.000 (Ankara Üni.) | ~2.500 (İstanbul Bilgi) | SÖZ: 22.274 | 🟢 **Kesin** |
-| **Psikoloji** | ~1.500 (Boğaziçi) | ~800 (Koç Üni.) | SÖZ: 22.274 | 🟡 **Orta-İyi** |
-| **YBS** | ~8.000 (Boğaziçi) | ~2.500 (Koç Üni.) | EA: 175.741 | 🟡 **Orta** |
-| **Sosyoloji** | ~15.000 (Boğaziçi) | ~8.000 (Koç Üni.) | SÖZ: 22.274 | 🟢 **İyi** |
+| Bölüm | Puan Türü | En Düşük Devlet Sıralaması | Berkay'ın Durumu | Yerleşme Şansı |
+|-------|-----------|---------------------------|------------------|----------------|
+| **Psikoloji** | SÖZ | ~1.500 (Boğaziçi) | SÖZ: 22.274 | 🟢 **İyi** |
+| **Yeni Medya** | SÖZ | ~420.000 (Ankara Üni.) | SÖZ: 22.274 | � **Kesin** |
+| **YBS** | EA | ~8.000 (Boğaziçi) | EA: 175.741 | 🟡 **Orta** |
+| **Sosyoloji** | EA | ~15.000 (Boğaziçi) | EA: 175.741 | � **Orta** |
 
-### 🎯 **Berkay'ın Avantajları:**
-- **SÖZ Puanı Çok Güçlü**: 22.274 sıra ile sosyal bilimler alanında avantajlı
-- **Burs Şansı Yüksek**: Özel üniversitelerde %50-100 burs alma potansiyeli
-- **Geniş Seçenek**: 4 farklı bölümde de başarılı olabilir
+### 🎯 **Düzeltilmiş Berkay'ın Avantajları:**
+- **SÖZ Puanı Çok Güçlü**: PSİKOLOJİ ve YENİ MEDYA için mükemmel
+- **EA Puanı Orta**: SOSYOLOJI ve YBS için sınırlı seçenekler
+- **Burs Şansı Yüksek**: SÖZ puanıyla özel üniversitelerde tam burs
 
 ## 🎓 Berkay'ın Puanlarına Göre Tercih Stratejisi
 
 ### 🎯 **SÖZ Puanıyla (22.274 sıra) - ÖNCELİKLİ SEÇENEKLER**
 
-#### 🟢 **Kesin Yerleşecekleri:**
-1. **Yeni Medya** - Ankara Üniversitesi (420.000 taban)
-2. **Sosyoloji** - Orta seviye devlet üniversiteleri
-3. **Psikoloji** - Seçilmiş devlet üniversiteleri
+#### 🟢 **En Güçlü Alanlar:**
+1. **PSİKOLOJİ** - Galatasaray'a bile şans var!
+2. **YENİ MEDYA** - Kesin yerleşir, tam burs şansı yüksek
 
-#### 🟡 **Deneyebileceği Prestijli Seçenekler:**
-1. **Sosyoloji** - Boğaziçi/ODTÜ (risk değer)
-2. **Psikoloji** - Galatasaray Üniversitesi
-3. **Özel Üniversite Bursları** - Koç, Sabancı, İstanbul Bilgi
-
-### 💰 **EA Puanıyla (175.741 sıra) - YEDEKLEMELİ**
-
-#### 🟡 **Orta Şans:**
-1. **YBS** - Orta seviye devlet üniversiteleri
-2. **İşletme** - Bazı devlet üniversiteleri
+#### � **EA Puanıyla (175.741 sıra) - SINIRLI SEÇENEKLER**
+1. **SOSYOLOJI** - Orta seviye devlet üniversiteleri
+2. **YBS** - Orta seviye devlet üniversiteleri
 
 ---
 
-### 🎯 **ÖNERİLEN TERCİH SIRASı:**
+### 🎯 **DÜZELTİLMİŞ TERCİH SIRASI:**
 
-1. **1-10. Tercihler**: Prestijli bölümler (Boğaziçi Sosyoloji, ODTÜ Psikoloji, vb.)
-2. **11-30. Tercihler**: Güvenli devlet seçenekleri (SÖZ puanıyla kesin)
-3. **31-50. Tercihler**: Özel üniversite burs seçenekleri
-4. **51-80. Tercihler**: EA puanıyla YBS seçenekleri
+1. **1-15. Tercihler**: PSİKOLOJİ ve YENİ MEDYA odaklı (SÖZ avantajı)
+2. **16-35. Tercihler**: Güvenli devlet seçenekleri (tüm bölümler)
+3. **36-50. Tercihler**: EA puanlı yedek seçenekler (SOSYOLOJI/YBS)
+
+### ❌ **HATA DÜZELTİLDİ:**
+**Sosyoloji EA puanıyla alınıyor, SÖZ ile değil! Bu nedenle Berkay için sınırlı seçenekler var.**
 
 ## 📝 Notlar
 

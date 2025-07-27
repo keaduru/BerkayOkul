@@ -40,75 +40,69 @@ Sosyoloji, toplumsal yapıları, sosyal ilişkileri, grup davranışlarını ve 
 
 ## 🏫 Üniversite Tercihleri ve Detaylar (2025)
 
-### ⚠️ **Berkay'ın SÖZ Puanı: 22.274 - Sosyoloji İçin Mükemmel!**
+### ⚠️ **Berkay'ın EA Puanı: 175.741 - Sosyoloji Sınırlı Seçenekler!**
 
 ---
 
-### 📍 **Berkay'ın Kesin Yerleşeceği Prestijli Devlet Üniversiteleri**
-
-#### 🎓 **Boğaziçi Üniversitesi** 🎯
-- **Fakülte:** Fen-Edebiyat Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 40  
-- **2025 Taban Sıralama:** ~30.000-40.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** En prestijli sosyoloji bölümü. Eleştirel sosyoloji geleneği, güçlü akademik kadro.
-- **🎯 Berkay için:** Yerleşme şansı yüksek!
-
-#### 🎓 **Galatasaray Üniversitesi** 🎯
-- **Fakülte:** Fen-Edebiyat Fakültesi  
-- **Dil:** Fransızca/Türkçe  
-- **Kontenjan:** 25  
-- **2025 Taban Sıralama:** ~25.000-35.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Çok dilli eğitim, Avrupa sosyoloji geleneği, uluslararası perspektif.
-- **🎯 Berkay için:** Kesin yerleşir!
-
-#### 🎓 **İstanbul Üniversitesi** ✅
-- **Fakülte:** Edebiyat Fakültesi  
-- **Dil:** Türkçe  
-- **Kontenjan:** 75  
-- **2025 Taban Sıralama:** ~50.000-70.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Köklü gelenek ve araştırma, kapsamlı sosyal bilimler eğitimi.
-- **🎯 Berkay için:** Kesin yerleşir!
+### 📍 **Berkay'ın EA Puanıyla Gerçekçi Devlet Seçenekleri**
 
 #### 🎓 **Ankara Üniversitesi** ✅
 - **Fakülte:** Dil ve Tarih-Coğrafya Fakültesi  
 - **Dil:** Türkçe  
-- **Kontenjan:** 65  
-- **2025 Taban Sıralama:** ~60.000-80.000  
+- **Kontenjan:** 60  
+- **2025 Taban Sıralama:** ~180.000-220.000  
 - **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Kapsamlı sosyal bilimler eğitimi, kamu kurumlarıyla bağlantı.
+- **✨ Özellik:** Köklü sosyoloji geleneği, güçlü teorik altyapı.
+- **🎯 Berkay için:** Yerleşme şansı yüksek!
+
+#### 🎓 **Gazi Üniversitesi** ✅
+- **Fakülte:** Edebiyat Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 80  
+- **2025 Taban Sıralama:** ~200.000-250.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** Uygulamalı sosyoloji, saha çalışması odaklı eğitim.
 - **🎯 Berkay için:** Kesin yerleşir!
 
-#### 🎓 **Hacettepe Üniversitesi** ✅
+#### 🎓 **Ege Üniversitesi** 🎯
 - **Fakülte:** Edebiyat Fakültesi  
 - **Dil:** Türkçe  
 - **Kontenjan:** 50  
-- **2025 Taban Sıralama:** ~70.000-90.000  
+- **2025 Taban Sıralama:** ~160.000-190.000  
 - **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Sosyal hizmet bağlantıları, uygulamalı sosyoloji
-- **🎯 Berkay için:** Kesin yerleşir!
+- **✨ Özellik:** Modern sosyoloji yaklaşımı, araştırma odaklı.
+- **🎯 Berkay için:** Sınırda ama mümkün!
 
+#### ❌ **Boğaziçi ve Galatasaray** - EA Puanıyla İmkansız
+- **Boğaziçi Sosyoloji:** ~15.000-25.000 sıra gerekli
+- **Galatasaray Sosyoloji:** ~20.000-30.000 sıra gerekli
+- **Berkay'ın EA Sırası:** 175.741 - Yetmiyor!  
 ---
 
-### 📍 **Özel Üniversite - Burs Kesin Alır**
+### 📍 **Özel Üniversite - EA Puanıyla Burs Şansları**
 
-#### 🎓 **Koç Üniversitesi** 🏆
-- **Fakülte:** Sosyal Bilimler ve Beşeri Bilimler Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 6 burslu / 18 %50  
-- **2025 Taban Sıralama:** 8.000 (burslu) / 450.000 (%50)  
-- **Ücret/Burs:** TAMAMEN ÜCRETSİZ (burslu)  
-- **✨ Özellik:** Uluslararası yaklaşım, çağdaş sosyoloji teorileri.
-- **🎯 Berkay için:** %50-100 burs alma şansı çok yüksek!
+#### 🎓 **Işık Üniversitesi** ✅
+- **Fakülte:** Fen-Edebiyat Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 40 (%25-50 burs)  
+- **2025 Taban Sıralama:** ~300.000 (%25-50 burs)  
+- **Ücret/Burs:** %25-50 burs şansı yüksek  
+- **✨ Özellik:** Uygulamalı sosyoloji, sosyal hizmet bağlantıları.
+- **🎯 Berkay için:** Burs alma şansı var!
 
-#### 🎓 **Sabancı Üniversitesi** 🏆
-- **Fakülte:** Sanat ve Sosyal Bilimler Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 8 burslu / 24 %50  
-- **2025 Taban Sıralama:** 12.000 (burslu) / 520.000 (%50)  
+#### 🎓 **Okan Üniversitesi** ✅
+- **Fakülte:** İnsan ve Toplum Bilimleri Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 30 (%25-50 burs)  
+- **2025 Taban Sıralama:** ~250.000 (%25-50 burs)  
+- **Ücret/Burs:** %25-50 burs mümkün  
+- **✨ Özellik:** Sosyal medya ve dijital sosyoloji odaklı.
+- **🎯 Berkay için:** İyi bir seçenek!
+
+#### ❌ **Koç ve Sabancı** - EA Puanıyla Burs İmkansız
+- **Koç Sosyoloji Burslu:** ~8.000-15.000 sıra gerekli
+- **Sabancı Sosyoloji Burslu:** ~12.000-20.000 sıra gerekli
+- **Berkay'ın EA Sırası:** 175.741 - Burs için yetmiyor!  
 - **Ücret/Burs:** TAMAMEN ÜCRETSİZ (burslu)  
 - **✨ Özellik:** İnterdisipliner program, eleştirel sosyal teoriler.
 - **🎯 Berkay için:** %50-100 burs alma şansı yüksek!
@@ -186,21 +180,32 @@ Sosyoloji, toplumsal yapıları, sosyal ilişkileri, grup davranışlarını ve 
 - **Network**: Sosyal bilimcilerle bağlantı kurma
 - **Araştırma**: Kendi araştırma projelerini geliştirme
 
-## 💡 Berkay için Değerlendirme
+## 💡 Berkay için Değerlendirme (EA Puanı: 175.741)
+
+🟡 **ORTA SEVİYE SEÇENEK:**
+- Ankara Üniversitesi ve Gazi Üniversitesi gibi devlet seçenekleri mevcut
+- Özel üniversitelerde %25-50 burs şansı var
+- En prestijli üniversiteler (Boğaziçi, Galatasaray) EA puanıyla zor
+- PSİKOLOJİ ve YENİ MEDYA'ya göre daha sınırlı seçenekler
+
 ✅ **Uygun Olabilir Eğer:**
 - Toplumsal meselelere duyarlıysan
 - İnsan ilişkilerini analiz etmeyi seviyorsan
 - Okumaya ve yazmaya ilgin varsa
 - Eleştirel düşünme yeteneğin güçlüyse
-- Sosyal adalete önem veriyorsan
-- Araştırma yapmaktan hoşlanıyorsan
+- EA puanındaki kısıtlı seçenekleri kabul ediyorsan
 
-❌ **Uygun Olmayabilir Eğer:**
+❌ **Önermiyorum Eğer:**
+- SÖZ puanının avantajını kullanmak istiyorsan
+- En prestijli üniversiteleri hedefliyorsan
+- Daha fazla seçenek istiyorsan
 - Hızlı mali kazanç bekliyorsan
-- Teorik derslerden sıkılıyorsan
-- Rekabetçi iş ortamlarını tercih ediyorsan
-- Teknik beceriler geliştirmek istiyorsan
-- Sadece pratik sonuçlar arıyorsan
+
+## 🔥 ÖNEMLİ NOTLAR
+- **Sosyoloji EA puanıyla alınıyor!** SÖZ ile değil
+- **Tercih sıralamasında 3. öncelik** (PSİKOLOJİ ve YENİ MEDYA'dan sonra)
+- **YBS ile benzer EA puan durumu** - ikisi de sınırlı seçenekler
+- **Gerçekçi beklenti:** Orta seviye devlet üniversiteleri
 
 ## 🔥 Özel Notlar
 - Sosyoloji, **hayata bakış açını** değiştirecek bir bölüm

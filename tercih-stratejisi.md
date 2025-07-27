@@ -17,28 +17,28 @@
 
 ## 🏆 Bölüm Öncelik Sıralaması
 
-### **1️⃣ BİRİNCİ ÖNCELİK: SOSYOLOJI** 🌟
+### **1️⃣ BİRİNCİ ÖNCELİK: PSİKOLOJİ** 🧠
 **Neden En İyi Seçenek:**
-- ✅ SÖZ puanıyla **Boğaziçi'ye bile şans var** (30.000-40.000 taban)
-- ✅ **Koç/Sabancı'da tam burs** alma ihtimali yüksek
-- ✅ Tüm prestijli devlet üniversiteleri **kesin yerleşir**
+- ✅ SÖZ puanıyla **22.274 sıra - çok güçlü!**
+- ✅ **Galatasaray'a bile yerleşme şansı var**
+- ✅ Özel üniversitelerde **tam burs alma şansı yüksek**
 - ✅ **En güçlü olduğu alan**
 
 **Hedef Üniversiteler:**
-1. 🎯 **Boğaziçi Sosyoloji** (Risk alarak dene)
-2. 🏆 **Koç Üniversitesi Sosyoloji** (Tam burs)
-3. 🏆 **Sabancı Üniversitesi Sosyoloji** (Tam burs)
-4. ✅ **Galatasaray Sosyoloji** (Kesin yerleşir)
-5. ✅ **İstanbul Üni. Sosyoloji** (Kesin yerleşir)
+1. 🎯 **Galatasaray Psikoloji** (25.000-40.000 taban - şans var!)
+2. 🏆 **İstanbul Bilgi Psikoloji** (Tam burs kesin)
+3. 🏆 **Bahçeşehir Psikoloji** (Tam burs şansı yüksek)
+4. ✅ **Hacettepe Psikoloji** (35.000-50.000 - yerleşebilir)
+5. ✅ **İstanbul Üni. Psikoloji** (45.000-65.000 - kesin yerleşir)
 
 ---
 
 ### **2️⃣ İKİNCİ ÖNCELİK: YENİ MEDYA** 🎬
-**Neden Güvenli Seçenek:**
-- ✅ **En güvenli seçenek** - kesin yerleşir
+**Neden İkinci Seçenek:**
+- ✅ SÖZ puanıyla **kesin yerleşir**
 - ✅ **Tam burs** alma şansı çok yüksek
 - ✅ Gelecekte **yüksek istihdam** garantisi
-- ✅ **Freelance** ve uzaktan çalışma imkanı
+- ✅ **En güvenli seçenek**
 
 **Hedef Üniversiteler:**
 1. 🏆 **İstanbul Bilgi Yeni Medya** (Tam burs + prestij)
@@ -49,89 +49,90 @@
 
 ---
 
-### **3️⃣ ÜÇÜNCÜ ÖNCELİK: PSİKOLOJİ** 🧠
-**Neden Düşünülebilir:**
-- 🟡 Orta seviye üniversitelerde **yerleşme şansı var**
-- 🟡 Özel üniversitelerde **burs alma şansı yüksek**
-- 🟡 **Lisansüstü** zorunlu ama prestijli alan
-- 🟡 **İnsanlara yardım** etme fırsatı
+### **3️⃣ ÜÇÜNCÜ ÖNCELİK: SOSYOLOJI** 🌍
+**UYARI: EA Puanıyla Alınıyor! (175.741 sıra)**
+- 🟡 EA puanıyla **orta seviye üniversiteler mümkün**
+- 🟡 **Prestijli üniversiteler zor**
+- 🟡 Özel üniversitelerde **%50 burs şansı var**
+- ⚠️ **Boğaziçi imkansız** (15.000-25.000 taban)
 
-**Hedef Üniversiteler:**
-1. 🎯 **Galatasaray Psikoloji** (Sınırda ama mümkün)
-2. 🏆 **İstanbul Bilgi Psikoloji** (Burs şansı yüksek)
-3. ✅ **Hacettepe Psikoloji** (Yerleşebilir)
-4. ✅ **İstanbul Üni. Psikoloji** (Yerleşebilir)
+**Gerçekçi Hedef Üniversiteler:**
+1. � **İstanbul Bilgi Sosyoloji** (%50 burs şansı)
+2. ✅ **Marmara Sosyoloji** (Yerleşebilir)
+3. ✅ **Ege Sosyoloji** (Yerleşebilir)
+4. ✅ **Dokuz Eylül Sosyoloji** (Yerleşebilir)
 
 ---
 
 ### **4️⃣ DÖRDÜNCÜ ÖNCELİK: YBS** 💻
-**Neden Yedek Plan:**
-- 🟡 EA puanıyla **sınırlı seçenekler**
-- 🟡 Sadece **orta seviye** üniversiteler
+**EA Puanıyla Benzer Durum:**
+- 🟡 EA puanıyla **orta seviye** üniversiteler
 - 🟡 **Yüksek maaş** potansiyeli var
 - 🟡 **İş bulma** garantisi yüksek
+- 🟡 Sosyoloji ile aynı kategoride
 
 **Hedef Üniversiteler:**
 1. 🏆 **İstanbul Bilgi YBS** (%50 burs şansı)
 2. ✅ **Dokuz Eylül YBS** (Yerleşebilir)
 3. ✅ **Marmara YBS** (Yerleşebilir)
+4. ✅ **Sakarya YBS** (Yerleşebilir)
 
 ---
 
 ## 🎯 MASTER TERCİH STRATEJİSİ
 
-### **🥇 1-15. Tercihler: PRESTIJ ODAKLI**
-1. Boğaziçi Sosyoloji
-2. Koç Sosyoloji (Burslu)
-3. Sabancı Sosyoloji (Burslu)
-4. İstanbul Bilgi Yeni Medya (Burslu)
-5. İstanbul Bilgi Sosyoloji (Burslu)
-6. Galatasaray Sosyoloji
-7. Galatasaray Psikoloji
-8. İstanbul Aydın Yeni Medya (Burslu)
-9. Ankara Bilim Yeni Medya (Burslu)
-10. ODTÜ Sosyoloji (Risk)
-11. İstanbul Bilgi Psikoloji (Burslu)
-12. Bahçeşehir Sosyoloji (%50 burs)
-13. Yeditepe Sosyoloji (%50 burs)
-14. İstanbul Gelişim Yeni Medya (Burslu)
-15. Bahçeşehir Yeni Medya (%50 burs)
+### **🥇 1-15. Tercihler: PRESTIJ ODAKLI (SÖZ Ağırlıklı)**
+1. Galatasaray Psikoloji
+2. İstanbul Bilgi Psikoloji (Burslu)
+3. İstanbul Bilgi Yeni Medya (Burslu)
+4. Bahçeşehir Psikoloji (Burslu)
+5. İstanbul Aydın Yeni Medya (Burslu)
+6. Ankara Bilim Yeni Medya (Burslu)
+7. Yeditepe Psikoloji (Burslu)
+8. İstanbul Gelişim Yeni Medya (Burslu)
+9. Bahçeşehir Yeni Medya (%50 burs)
+10. Kadir Has Yeni Medya (%50 burs)
+11. Işık Psikoloji (%50 burs)
+12. Hacettepe Psikoloji
+13. İstanbul Üni. Psikoloji
+14. Ankara Üni. Psikoloji
+15. Ege Üni. Psikoloji
 
-### **🥈 16-35. Tercihler: GÜVENLİ DEVLET**
-16. İstanbul Üni. Sosyoloji
-17. Ankara Üni. Sosyoloji
-18. Hacettepe Sosyoloji
-19. Ankara Üni. Yeni Medya
-20. Ege Üni. Yeni Medya
-21. Marmara Üni. Yeni Medya
-22. İstanbul Üni. Psikoloji
-23. Hacettepe Psikoloji
-24. Ankara Üni. Psikoloji
-25. Ege Üni. Sosyoloji
-26. Ege Üni. Psikoloji
+### **🥈 16-35. Tercihler: GÜVENLİ DEVLET (SÖZ + EA Karışık)**
+16. Ankara Üni. Yeni Medya
+17. Ege Üni. Yeni Medya
+18. Marmara Üni. Yeni Medya
+19. İstanbul Bilgi YBS (%50 burs)
+20. İstanbul Bilgi Sosyoloji (%50 burs)
+21. Yeditepe YBS (%50 burs)
+22. Bahçeşehir YBS (%50 burs)
+23. Dokuz Eylül YBS
+24. Marmara YBS
+25. Sakarya YBS
+26. Kocaeli YBS
 27. Marmara Sosyoloji
-28. Dokuz Eylül Sosyoloji
-29. Uludağ Sosyoloji
-30. İstanbul Bilgi YBS (%50 burs)
-31. Yeditepe YBS (%50 burs)
-32. Bahçeşehir YBS (%50 burs)
-33. Dokuz Eylül YBS
-34. Marmara YBS
-35. Sakarya YBS
+28. Ege Sosyoloji
+29. Dokuz Eylül Sosyoloji
+30. Ankara Üni. Sosyoloji
+31. Hacettepe Sosyoloji
+32. Uludağ Sosyoloji
+33. Diğer devlet psikoloji bölümleri
+34. Diğer devlet yeni medya bölümleri
+35. Diğer EA puanlı seçenekler
 
 ### **🥉 36-50. Tercihler: YEDEK PLANLAR**
-36-50. Diğer sosyoloji ve yeni medya seçenekleri
+36-50. Kalan tüm seçenekler (EA ve SÖZ karışık)
 
 ---
 
 ## 💰 Finansal Strateji
 
 ### **🏆 TAM BURS HEDEFLERİ:**
-- **Koç Sosyoloji**: %90 şans
-- **Sabancı Sosyoloji**: %80 şans  
-- **İstanbul Bilgi (Tüm bölümler)**: %95 şans
+- **İstanbul Bilgi Psikoloji**: %95 şans
+- **İstanbul Bilgi Yeni Medya**: %95 şans  
 - **İstanbul Aydın Yeni Medya**: %100 şans
 - **Ankara Bilim Yeni Medya**: %100 şans
+- **Bahçeşehir Psikoloji**: %85 şans
 
 ### **💡 Burs Başvuru Taktiği:**
 1. **Erken başvur** - Kontenjanlar dolmadan
@@ -164,16 +165,16 @@
 ## 🎯 Başarı Kriterleri
 
 ### **🏆 MÜKEMMEL SENARYO:**
-- Boğaziçi Sosyoloji + Devlet ücretsiz
-- VEYA Koç/Sabancı + Tam burs
+- Galatasaray Psikoloji + Devlet ücretsiz
+- VEYA İstanbul Bilgi Psikoloji/Yeni Medya + Tam burs
 
 ### **✅ İYİ SENARYO:**
-- Prestijli özel üniversite + Tam burs
-- VEYA Güçlü devlet üniversitesi
+- Prestijli özel üniversite Psikoloji/Yeni Medya + Tam burs
+- VEYA Güçlü devlet üniversitesi Psikoloji
 
 ### **🟡 KABUL EDİLEBİLİR SENARYO:**
-- Orta seviye devlet üniversitesi
-- VEYA Özel üniversite %50 burs
+- Orta seviye devlet üniversitesi (herhangi bir bölüm)
+- VEYA Özel üniversite YBS/Sosyoloji %50 burs
 
 ---
 
@@ -195,9 +196,11 @@
 
 ## 🎊 SONUÇ
 
-**Berkay'ın SÖZ puanı (22.274) sosyal bilimler alanında çok güçlü bir konumda. Bu avantajı kullanarak hem prestijli üniversitelerde hem de tam burslu programlarda başarılı olma şansı çok yüksek.**
+**Berkay'ın SÖZ puanı (22.274) PSİKOLOJİ ve YENİ MEDYA alanında çok güçlü bir konumda. Sosyoloji EA puanıyla alınıyor ve bu alanda seçenekleri sınırlı.**
 
-**Önerilen Ana Strateji: SOSYOLOJI + YENİ MEDYA odaklı tercih listesi hazırla, prestijli üniversitelerde burs fırsatlarını değerlendir!**
+**Düzeltilmiş Ana Strateji: PSİKOLOJİ + YENİ MEDYA odaklı tercih listesi hazırla, SÖZ puanının avantajını kullan!**
+
+**❌ BÜYÜK HATA DÜZELTİLDİ: Sosyoloji EA puanıyla alınıyor, SÖZ ile değil!**
 
 ---
 
