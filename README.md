@@ -45,6 +45,8 @@
 6. **🎯 Tercih Stratejisi**: [Berkay'ın puanlarına göre detaylı tercih rehberi](./tercih-stratejisi.md)
 7. **📚 Ek Bölüm Önerileri**: [Puanlarına uygun diğer bölüm seçenekleri](./ek-bolum-onerileri.md)
 
+8. **🧭 Holland Kişilik Tipine Göre Tercih Analizi**: [Kişilik envanteri ve uygun bölümler](./envanter-holland.md)
+
 ## 📊 Hızlı Karşılaştırma Tablosu
 
 | Bölüm | Puan Türü | En Düşük Devlet Sıralaması | Berkay'ın Durumu | Yerleşme Şansı |
