@@ -30,32 +30,51 @@ Bu repo, Berkay'ın üniversite tercih sürecinde doğru kararı vermesine yard�
 2. **Üniversite Rehberi**: 2025 YKS taban puanları, ücretler ve kontenjanlar yer almaktadır
 3. **Kariyer Yolları**: Her bölümde mesleki geleceğe dair kapsamlı bilgiler mevcuttur
 4. **Kişisel Değerlendirme**: Berkay'ın ilgi alanlarına göre uygunluk analizleri yapılmıştır
+5. **YKS Sonuçları**: [Berkay'ın 2024 YKS puan ve sıralama bilgileri](./berkay-yks-sonuclari.md)
+6. **🎯 Tercih Stratejisi**: [Berkay'ın puanlarına göre detaylı tercih rehberi](./tercih-stratejisi.md)
 
 ## 📊 Hızlı Karşılaştırma Tablosu
 
-| Bölüm | En Düşük Devlet Sıralaması | En Düşük Özel Burs | Ortalama Maaş (Başlangıç) |
-|-------|---------------------------|-------------------|------------------------|
-| **Yeni Medya** | ~420.000 (Ankara Üni.) | ~2.500 (İstanbul Bilgi) | 18.000-30.000 TL |
-| **Psikoloji** | ~1.500 (Boğaziçi) | ~800 (Koç Üni.) | 15.000-25.000 TL |
-| **YBS** | ~8.000 (Boğaziçi) | ~2.500 (Koç Üni.) | 25.000-40.000 TL |
-| **Sosyoloji** | ~15.000 (Boğaziçi) | ~8.000 (Koç Üni.) | 12.000-20.000 TL |
+| Bölüm | En Düşük Devlet Sıralaması | En Düşük Özel Burs | Berkay'ın Durumu | Yerleşme Şansı |
+|-------|---------------------------|-------------------|------------------|----------------|
+| **Yeni Medya** | ~420.000 (Ankara Üni.) | ~2.500 (İstanbul Bilgi) | SÖZ: 22.274 | 🟢 **Kesin** |
+| **Psikoloji** | ~1.500 (Boğaziçi) | ~800 (Koç Üni.) | SÖZ: 22.274 | 🟡 **Orta-İyi** |
+| **YBS** | ~8.000 (Boğaziçi) | ~2.500 (Koç Üni.) | EA: 175.741 | 🟡 **Orta** |
+| **Sosyoloji** | ~15.000 (Boğaziçi) | ~8.000 (Koç Üni.) | SÖZ: 22.274 | 🟢 **İyi** |
 
-## 🎓 Tercih Stratejisi
+### 🎯 **Berkay'ın Avantajları:**
+- **SÖZ Puanı Çok Güçlü**: 22.274 sıra ile sosyal bilimler alanında avantajlı
+- **Burs Şansı Yüksek**: Özel üniversitelerde %50-100 burs alma potansiyeli
+- **Geniş Seçenek**: 4 farklı bölümde de başarılı olabilir
 
-### 💪 **Yüksek Puan Senaryosu (1-50.000)**
-- **1. Tercih**: Boğaziçi YBS / Psikoloji
-- **2. Tercih**: ODTÜ YBS / Psikoloji  
-- **3. Tercih**: Koç Üniversitesi (Burslu)
+## 🎓 Berkay'ın Puanlarına Göre Tercih Stratejisi
 
-### 🎯 **Orta Puan Senaryosu (50.000-200.000)**
-- **1. Tercih**: İstanbul Üni. Psikoloji
-- **2. Tercih**: İTÜ YBS
-- **3. Tercih**: Sabancı Üniversitesi (Burslu)
+### 🎯 **SÖZ Puanıyla (22.274 sıra) - ÖNCELİKLİ SEÇENEKLER**
 
-### 📈 **Güvenli Seçenekler (200.000+)**
-- **1. Tercih**: Gazi YBS
-- **2. Tercih**: Ankara Üni. Yeni Medya
-- **3. Tercih**: İstanbul Bilgi (%50 Burslu)
+#### 🟢 **Kesin Yerleşecekleri:**
+1. **Yeni Medya** - Ankara Üniversitesi (420.000 taban)
+2. **Sosyoloji** - Orta seviye devlet üniversiteleri
+3. **Psikoloji** - Seçilmiş devlet üniversiteleri
+
+#### 🟡 **Deneyebileceği Prestijli Seçenekler:**
+1. **Sosyoloji** - Boğaziçi/ODTÜ (risk değer)
+2. **Psikoloji** - Galatasaray Üniversitesi
+3. **Özel Üniversite Bursları** - Koç, Sabancı, İstanbul Bilgi
+
+### 💰 **EA Puanıyla (175.741 sıra) - YEDEKLEMELİ**
+
+#### 🟡 **Orta Şans:**
+1. **YBS** - Orta seviye devlet üniversiteleri
+2. **İşletme** - Bazı devlet üniversiteleri
+
+---
+
+### 🎯 **ÖNERİLEN TERCİH SIRASı:**
+
+1. **1-10. Tercihler**: Prestijli bölümler (Boğaziçi Sosyoloji, ODTÜ Psikoloji, vb.)
+2. **11-30. Tercihler**: Güvenli devlet seçenekleri (SÖZ puanıyla kesin)
+3. **31-50. Tercihler**: Özel üniversite burs seçenekleri
+4. **51-80. Tercihler**: EA puanıyla YBS seçenekleri
 
 ## 📝 Notlar
 

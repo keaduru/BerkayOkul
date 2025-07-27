@@ -40,125 +40,112 @@ Sosyoloji, toplumsal yapıları, sosyal ilişkileri, grup davranışlarını ve 
 
 ## 🏫 Üniversite Tercihleri ve Detaylar (2025)
 
-### 📍 En Prestijli Devlet Üniversiteleri
-
-#### 🎓 **Boğaziçi Üniversitesi**
-- **Fakülte:** Fen-Edebiyat Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 40  
-- **2025 Taban Sıralama:** ~15.000-25.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** En prestijli sosyoloji bölümü. Eleştirel sosyoloji geleneği, güçlü akademik kadro.
-
-#### 🎓 **Orta Doğu Teknik Üniversitesi**
-- **Fakülte:** Fen-Edebiyat Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 35  
-- **2025 Taban Sıralama:** ~35.000-50.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Güçlü akademik kadro, araştırma metodolojisi odaklı.
-
-#### 🎓 **İstanbul Üniversitesi**
-- **Fakülte:** Edebiyat Fakültesi  
-- **Dil:** Türkçe  
-- **Kontenjan:** 75  
-- **2025 Taban Sıralama:** ~70.000-95.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Köklü gelenek ve araştırma, kapsamlı sosyal bilimler eğitimi.
-
-#### 🎓 **Ankara Üniversitesi**
-- **Fakülte:** Dil ve Tarih-Coğrafya Fakültesi  
-- **Dil:** Türkçe  
-- **Kontenjan:** 65  
-- **2025 Taban Sıralama:** ~85.000-110.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Kapsamlı sosyal bilimler eğitimi, kamu kurumlarıyla bağlantı.
-
-#### 🎓 **Galatasaray Üniversitesi**
-- **Fakülte:** Fen-Edebiyat Fakültesi  
-- **Dil:** Fransızca/Türkçe  
-- **Kontenjan:** 25  
-- **2025 Taban Sıralama:** ~55.000-75.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Çok dilli eğitim, Avrupa sosyoloji geleneği, uluslararası perspektif.
+### ⚠️ **Berkay'ın SÖZ Puanı: 22.274 - Sosyoloji İçin Mükemmel!**
 
 ---
 
-### 📍 Güçlü Özel Üniversiteler
+### 📍 **Berkay'ın Kesin Yerleşeceği Prestijli Devlet Üniversiteleri**
 
-#### 🎓 **Koç Üniversitesi**
+#### 🎓 **Boğaziçi Üniversitesi** 🎯
+- **Fakülte:** Fen-Edebiyat Fakültesi  
+- **Dil:** İngilizce  
+- **Kontenjan:** 40  
+- **2025 Taban Sıralama:** ~30.000-40.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** En prestijli sosyoloji bölümü. Eleştirel sosyoloji geleneği, güçlü akademik kadro.
+- **🎯 Berkay için:** Yerleşme şansı yüksek!
+
+#### 🎓 **Galatasaray Üniversitesi** 🎯
+- **Fakülte:** Fen-Edebiyat Fakültesi  
+- **Dil:** Fransızca/Türkçe  
+- **Kontenjan:** 25  
+- **2025 Taban Sıralama:** ~25.000-35.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** Çok dilli eğitim, Avrupa sosyoloji geleneği, uluslararası perspektif.
+- **🎯 Berkay için:** Kesin yerleşir!
+
+#### 🎓 **İstanbul Üniversitesi** ✅
+- **Fakülte:** Edebiyat Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 75  
+- **2025 Taban Sıralama:** ~50.000-70.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** Köklü gelenek ve araştırma, kapsamlı sosyal bilimler eğitimi.
+- **🎯 Berkay için:** Kesin yerleşir!
+
+#### 🎓 **Ankara Üniversitesi** ✅
+- **Fakülte:** Dil ve Tarih-Coğrafya Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 65  
+- **2025 Taban Sıralama:** ~60.000-80.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** Kapsamlı sosyal bilimler eğitimi, kamu kurumlarıyla bağlantı.
+- **🎯 Berkay için:** Kesin yerleşir!
+
+#### 🎓 **Hacettepe Üniversitesi** ✅
+- **Fakülte:** Edebiyat Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 50  
+- **2025 Taban Sıralama:** ~70.000-90.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** Sosyal hizmet bağlantıları, uygulamalı sosyoloji
+- **🎯 Berkay için:** Kesin yerleşir!
+
+---
+
+### 📍 **Özel Üniversite - Burs Kesin Alır**
+
+#### 🎓 **Koç Üniversitesi** 🏆
 - **Fakülte:** Sosyal Bilimler ve Beşeri Bilimler Fakültesi  
 - **Dil:** İngilizce  
 - **Kontenjan:** 6 burslu / 18 %50  
 - **2025 Taban Sıralama:** 8.000 (burslu) / 450.000 (%50)  
-- **Ücret/Burs:** ~1.200.000 TL/yıl  
+- **Ücret/Burs:** TAMAMEN ÜCRETSİZ (burslu)  
 - **✨ Özellik:** Uluslararası yaklaşım, çağdaş sosyoloji teorileri.
+- **🎯 Berkay için:** %50-100 burs alma şansı çok yüksek!
 
-#### 🎓 **Sabancı Üniversitesi**
+#### 🎓 **Sabancı Üniversitesi** 🏆
 - **Fakülte:** Sanat ve Sosyal Bilimler Fakültesi  
 - **Dil:** İngilizce  
 - **Kontenjan:** 8 burslu / 24 %50  
 - **2025 Taban Sıralama:** 12.000 (burslu) / 520.000 (%50)  
-- **Ücret/Burs:** ~1.150.000 TL/yıl  
+- **Ücret/Burs:** TAMAMEN ÜCRETSİZ (burslu)  
 - **✨ Özellik:** İnterdisipliner program, eleştirel sosyal teoriler.
+- **🎯 Berkay için:** %50-100 burs alma şansı yüksek!
 
-#### 🎓 **İstanbul Bilgi Üniversitesi**
+#### 🎓 **İstanbul Bilgi Üniversitesi** 🏆
 - **Fakülte:** Sosyal ve Beşeri Bilimler Fakültesi  
 - **Dil:** İngilizce/Türkçe  
 - **Kontenjan:** 20 burslu / 80 %50  
 - **2025 Taban Sıralama:** 25.000 (burslu) / 750.000 (%50)  
-- **Ücret/Burs:** ~385.000 TL/yıl  
+- **Ücret/Burs:** ~385.000 TL/yıl (%50 burslu için)  
 - **✨ Özellik:** Eleştirel sosyoloji, toplumsal hareketler odaklı.
-
-#### 🎓 **Kadir Has Üniversitesi**
-- **Fakülte:** İnsani ve Toplumsal Bilimler Fakültesi  
-- **Dil:** İngilizce/Türkçe  
-- **Kontenjan:** 12 burslu / 48 %50  
-- **2025 Taban Sıralama:** 35.000 (burslu) / 850.000 (%50)  
-- **Ücret/Burs:** ~380.000 TL/yıl  
-- **✨ Özellik:** Modern perspektif, medya sosyolojisi güçlü.
-
-#### 🎓 **Işık Üniversitesi**
-- **Fakülte:** Fen-Edebiyat Fakültesi  
-- **Dil:** Türkçe  
-- **Kontenjan:** 8 burslu / 32 %50  
-- **2025 Taban Sıralama:** 45.000 (burslu) / 950.000 (%50)  
-- **Ücret/Burs:** ~320.000 TL/yıl  
-- **✨ Özellik:** Küçük sınıflar, bireysel ilgi, sosyal projeler.
+- **🎯 Berkay için:** Kesin burs alır!
 
 ---
 
-### 📍 Diğer Güçlü Devlet Seçenekleri
+### 🎯 **Berkay'ın Tercih Stratejisi**
 
-#### 🎓 **Hacettepe Üniversitesi**
-- **Taban Sıralama:** ~95.000-125.000  
-- **✨ Özellik:** Sosyal hizmet bağlantıları, uygulamalı sosyoloji
+#### 🥇 **1-5. Tercihler (Riskli ama Değer):**
+1. Boğaziçi Sosyoloji
+2. Koç Üniversitesi Sosyoloji (Burslu)
+3. Sabancı Üniversitesi Sosyoloji (Burslu)
+4. Galatasaray Sosyoloji
+5. ODTÜ Sosyoloji (risk)
 
-#### 🎓 **Ege Üniversitesi**
-- **Taban Sıralama:** ~110.000-140.000  
-- **✨ Özellik:** Kültür sosyolojisi, Ege bölgesi araştırmaları
-
-#### 🎓 **Marmara Üniversitesi**
-- **Taban Sıralama:** ~125.000-155.000  
-- **✨ Özellik:** İstanbul'da lokasyon, kent sosyolojisi
-
-#### 🎓 **Uludağ Üniversitesi**
-- **Taban Sıralama:** ~140.000-170.000  
-- **✨ Özellik:** Kırsal sosyoloji, toplumsal kalkınma odaklı
+#### 🥈 **6-15. Tercihler (Güvenli Seçenekler):**
+6. İstanbul Üni. Sosyoloji
+7. Ankara Üni. Sosyoloji  
+8. Hacettepe Sosyoloji
+9. İstanbul Bilgi Sosyoloji (%50 burs)
+10. Ege Üni. Sosyoloji
 
 ---
 
-### 🎯 Tercih Stratejisi
+### ❌ **İmkansız Olan Seçenekler**
+*(Sosyoloji için çok az yer var)*
 
-#### 💡 **Devlet Tercihi İçin:**
-1. **İlk 50.000:** Boğaziçi, ODTÜ'yü dene
-2. **50.000-100.000:** İstanbul Üni., Ankara Üni., Galatasaray
-3. **100.000+:** Hacettepe, Ege, Marmara, Uludağ
-
-#### 💰 **Özel Üniversite İçin:**
-- **Tam Burs Hedefi:** Koç, Sabancı (çok yüksek puan gerekli)
-- **%50 Burs:** İstanbul Bilgi, Kadir Has, Işık
-- **Uygun Fiyatlı:** İstanbul Bilgi, Işık (%50 burslu)
+- **ODTÜ Sosyoloji** (15.000-25.000 taban) - Riskli ama deneyebilir
 
 ## ⚡ Avantajları
 - Toplumsal sorunlara çözüm arama

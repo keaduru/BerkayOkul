@@ -31,65 +31,120 @@ Yeni Medya bölümü, dijital çağın getirdiği iletişim teknolojileri ve med
 
 ## 🏫 Üniversite Tercihleri ve Detaylar (2025)
 
-### 📍 Ankara
+### ⚠️ **Berkay'ın SÖZ Puanı: 22.274 - Yeni Medya İçin Mükemmel!**
 
-#### 🎓 **Ankara Üniversitesi**
+---
+
+### 📍 **Berkay'ın Kesin Yerleşeceği Seçenekler**
+
+#### 🎓 **Ankara Üniversitesi** ✅
 - **Fakülte:** İletişim Fakültesi  
 - **Dil:** Türkçe  
 - **Kontenjan:** 30+1  
 - **2025 Taban Sıralama:** ~420.000  
 - **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Türkiye'nin en köklü üniversitelerinden biri. Teorik altyapısı güçlü. Kamu kurumları ve akademi için ideal.
+- **✨ Özellik:** Türkiye'nin en köklü üniversitelerinden biri. Teorik altyapısı güçlü.
+- **🎯 Berkay için:** KESIN YERLEŞİR! En güvenli seçenek.
 
-#### 🎓 **Ankara Bilim Üniversitesi**
-- **Fakülte:** Güzel Sanatlar ve Tasarım Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 8 burslu + 1 ek  
-- **2025 Taban Sıralama:** ~95.000 (burslu)  
-- **Ücret/Burs:** Vakıf – Burslu / %50 İndirimli  
-- **✨ Özellik:** Yeni kurulan genç üniversite. Tasarım ve teknoloji odaklı. İngilizce eğitim avantajı.
+#### 🎓 **Ege Üniversitesi** ✅
+- **Fakülte:** İletişim Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 35  
+- **2025 Taban Sıralama:** ~380.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** Uygulamalı eğitim, medya sektör bağlantıları
+- **🎯 Berkay için:** KESIN YERLEŞİR!
+
+#### 🎓 **Marmara Üniversitesi** ✅
+- **Fakülte:** İletişim Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 40  
+- **2025 Taban Sıralama:** ~350.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** İstanbul lokasyonu, sektör imkanları
+- **🎯 Berkay için:** KESIN YERLEŞİR!
 
 ---
 
-### 📍 İstanbul
+### 📍 **Özel Üniversite - Tam Burs Alabilir**
 
-#### 🎓 **İstanbul Bilgi Üniversitesi**
+#### 🎓 **İstanbul Bilgi Üniversitesi** 🏆
 - **Fakülte:** İletişim Fakültesi  
 - **Dil:** İngilizce  
 - **Kontenjan:** 12 burslu / 80 %50  
 - **2025 Taban Sıralama:** 2.500 (burslu) / 850.000 (%50)  
-- **Ücret/Burs:** ~385.000 TL/yıl (indirimli)  
-- **✨ Özellik:** Medya sektörüyle doğrudan bağlantılı, uygulamalı eğitim çok güçlü. Mezunları sektörde öne çıkıyor.
+- **Ücret/Burs:** TAMAMEN ÜCRETSİZ (burslu)  
+- **✨ Özellik:** Medya sektörüyle doğrudan bağlantılı, uygulamalı eğitim çok güçlü.
+- **🎯 Berkay için:** TAM BURS ALMA ŞANSI YÜKSEK!
 
-#### 🎓 **İstanbul Aydın Üniversitesi**
+#### 🎓 **İstanbul Aydın Üniversitesi** 🏆
 - **Fakülte:** İletişim Fakültesi  
 - **Dil:** Türkçe  
 - **Kontenjan:** 12 burslu / 65 %50  
 - **2025 Taban Sıralama:** 28.000 (burslu) / 950.000 (%50)  
-- **Ücret/Burs:** ~165.000 TL/yıl  
+- **Ücret/Burs:** TAMAMEN ÜCRETSİZ (burslu)  
 - **✨ Özellik:** İçerik üretimine dayalı pratik eğitim. Girişimciliği destekleyen yapı.
+- **🎯 Berkay için:** TAM BURS KESIN ALIR!
 
-#### 🎓 **İstanbul Gelişim Üniversitesi**
+#### 🎓 **İstanbul Gelişim Üniversitesi** 🏆
 - **Fakülte:** Uygulamalı Bilimler Fakültesi  
 - **Dil:** İngilizce  
 - **Kontenjan:** 6 burslu / 30 %50  
 - **2025 Taban Sıralama:** 70.000 (burslu) / 1.500.000 (%50)  
-- **Ücret/Burs:** ~215.000 TL/yıl  
+- **Ücret/Burs:** TAMAMEN ÜCRETSİZ (burslu)  
 - **✨ Özellik:** Modern altyapı, video prodüksiyon ve yeni medya teknolojilerine uygun yapı.
+- **🎯 Berkay için:** TAM BURS KESIN ALIR!
 
-### 🏛 Diğer Güçlü Seçenekler
+#### 🎓 **Ankara Bilim Üniversitesi** 🏆
+- **Fakülte:** Güzel Sanatlar ve Tasarım Fakültesi  
+- **Dil:** İngilizce  
+- **Kontenjan:** 8 burslu + 1 ek  
+- **2025 Taban Sıralama:** ~95.000 (burslu)  
+- **Ücret/Burs:** TAMAMEN ÜCRETSİZ (burslu)  
+- **✨ Özellik:** Yeni kurulan genç üniversite. Tasarım ve teknoloji odaklı. İngilizce eğitim avantajı.
+- **� Berkay için:** TAM BURS KESIN ALIR!
+
+---
+
+### 📍 **Diğer Güçlü Seçenekler**
 
 #### 🎓 **Bahçeşehir Üniversitesi**
 - **Dil:** İngilizce/Türkçe  
 - **Taban Sıralama:** ~15.000 (burslu) / 1.200.000 (%50)  
-- **Ücret:** ~450.000 TL/yıl  
+- **Ücret:** ~450.000 TL/yıl (%50 burslu)  
 - **✨ Özellik:** Güçlü dijital medya programı, uluslararası bağlantılar
+- **🎯 Berkay için:** %50 burs alabilir
 
 #### 🎓 **Kadir Has Üniversitesi**
 - **Dil:** İngilizce  
 - **Taban Sıralama:** ~25.000 (burslu) / 1.100.000 (%50)  
-- **Ücret:** ~380.000 TL/yıl  
+- **Ücret:** ~380.000 TL/yıl (%50 burslu)  
 - **✨ Özellik:** Modern müfredat, sektör odaklı eğitim
+- **🎯 Berkay için:** %50 burs alabilir
+
+---
+
+### 🎯 **Berkay İçin En İyi Strateji**
+
+#### 🥇 **ÖNCELIK 1: Tam Burslu Özel Üniversiteler**
+1. İstanbul Bilgi Yeni Medya (Burslu) - Tam burs + prestij
+2. İstanbul Aydın Yeni Medya (Burslu) - Tam burs + pratik
+3. Ankara Bilim Yeni Medya (Burslu) - Tam burs + İngilizce
+4. İstanbul Gelişim Yeni Medya (Burslu) - Tam burs + teknoloji
+
+#### 🥈 **ÖNCELIK 2: Güvenli Devlet Seçenekleri**
+5. Ankara Üni. Yeni Medya - Kesin yerleşir
+6. Ege Üni. Yeni Medya - Kesin yerleşir  
+7. Marmara Üni. Yeni Medya - Kesin yerleşir
+
+#### 🥉 **ÖNCELIK 3: %50 Burslu Seçenekler**
+8. Bahçeşehir (%50 burs)
+9. Kadir Has (%50 burs)
+
+---
+
+### 💡 **Sonuç**
+Yeni Medya, Berkay için **en güvenli ve en avantajlı** seçenek! Hem devlet üniversitelerinde kesin yerleşir, hem de özel üniversitelerde tam burs alma şansı çok yüksek.
 
 ## ⚡ Avantajları
 - Hızla büyüyen bir sektör

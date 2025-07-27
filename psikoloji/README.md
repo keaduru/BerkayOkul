@@ -31,31 +31,19 @@ Psikoloji, insan davranışları, zihinsel süreçler, duygular ve bilişsel fon
 
 ## 🏫 Üniversite Tercihleri ve Detaylar (2025)
 
-### 📍 En Prestijli Devlet Üniversiteleri
+### ⚠️ **Berkay'ın SÖZ Puanı: 22.274 - Çok İyi Sıralama!**
 
-#### 🎓 **Boğaziçi Üniversitesi**
+---
+
+### 📍 **Berkay'ın Yerleşebileceği Prestijli Devlet Üniversiteleri**
+
+#### 🎓 **Galatasaray Üniversitesi**
 - **Fakülte:** Fen-Edebiyat Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 45  
-- **2025 Taban Sıralama:** ~1.500-3.000  
+- **Dil:** Fransızca/Türkçe  
+- **Kontenjan:** 25  
+- **2025 Taban Sıralama:** ~25.000-40.000  
 - **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Türkiye'nin en prestijli psikoloji bölümü. Uluslararası tanınırlık, güçlü araştırma altyapısı.
-
-#### 🎓 **Orta Doğu Teknik Üniversitesi**
-- **Fakülte:** Fen-Edebiyat Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 40  
-- **2025 Taban Sıralama:** ~8.000-12.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Güçlü araştırma altyapısı, deneysel psikoloji odaklı.
-
-#### 🎓 **İstanbul Üniversitesi**
-- **Fakülte:** Edebiyat Fakültesi  
-- **Dil:** Türkçe  
-- **Kontenjan:** 85  
-- **2025 Taban Sıralama:** ~45.000-65.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Köklü gelenek, kapsamlı klinik imkanlar.
+- **✨ Özellik:** Çok dilli eğitim, Avrupa bağlantıları, prestijli
 
 #### 🎓 **Hacettepe Üniversitesi**
 - **Fakülte:** Edebiyat Fakültesi  
@@ -65,58 +53,76 @@ Psikoloji, insan davranışları, zihinsel süreçler, duygular ve bilişsel fon
 - **Ücret/Burs:** Devlet – Ücretsiz  
 - **✨ Özellik:** Klinik odaklı eğitim, hastane bağlantıları güçlü.
 
+#### 🎓 **İstanbul Üniversitesi**
+- **Fakülte:** Edebiyat Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 85  
+- **2025 Taban Sıralama:** ~45.000-65.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** Köklü gelenek, kapsamlı klinik imkanlar.
+
+#### 🎓 **Ankara Üniversitesi**
+- **Fakülte:** Dil ve Tarih-Coğrafya Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 70  
+- **2025 Taban Sıralama:** ~55.000-75.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** Kapsamlı program, güçlü sosyal psikoloji
+
+#### 🎓 **Ege Üniversitesi**
+- **Fakülte:** Edebiyat Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 55  
+- **2025 Taban Sıralama:** ~80.000-110.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** Deneysel çalışmalar, araştırma odaklı
+
 ---
 
-### 📍 Güçlü Özel Üniversiteler
-
-#### 🎓 **Koç Üniversitesi**
-- **Fakülte:** Sosyal Bilimler ve Beşeri Bilimler Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 8 burslu / 24 %50  
-- **2025 Taban Sıralama:** 800 (burslu) / 180.000 (%50)  
-- **Ücret/Burs:** ~1.200.000 TL/yıl  
-- **✨ Özellik:** Uluslararası standartlarda eğitim, yurtdışı exchange programları.
-
-#### 🎓 **Sabancı Üniversitesi**
-- **Fakülte:** Sanat ve Sosyal Bilimler Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 6 burslu / 18 %50  
-- **2025 Taban Sıralama:** 1.200 (burslu) / 220.000 (%50)  
-- **Ücret/Burs:** ~1.150.000 TL/yıl  
-- **✨ Özellik:** İnterdisipliner yaklaşım, nöropsikoloji odaklı.
+### 📍 **Özel Üniversite Burs Şansı Yüksek**
 
 #### 🎓 **İstanbul Bilgi Üniversitesi**
 - **Fakülte:** Sosyal ve Beşeri Bilimler Fakültesi  
 - **Dil:** İngilizce/Türkçe  
 - **Kontenjan:** 15 burslu / 60 %50  
 - **2025 Taban Sıralama:** 8.000 (burslu) / 450.000 (%50)  
-- **Ücret/Burs:** ~385.000 TL/yıl  
+- **Ücret/Burs:** ~385.000 TL/yıl (%50 burslu için)  
 - **✨ Özellik:** Praktik odaklı müfredat, klinik deneyim imkanları.
+- **🎯 Berkay için:** Burs alma şansı çok yüksek!
 
 #### 🎓 **Bahçeşehir Üniversitesi**
 - **Fakülte:** İnsani ve Toplumsal Bilimler Fakültesi  
 - **Dil:** İngilizce/Türkçe  
 - **Kontenjan:** 12 burslu / 48 %50  
 - **2025 Taban Sıralama:** 12.000 (burslu) / 650.000 (%50)  
-- **Ücret/Burs:** ~450.000 TL/yıl  
+- **Ücret/Burs:** ~450.000 TL/yıl (%50 burslu için)  
 - **✨ Özellik:** Modern laboratuvarlar, uluslararası akademik kadro.
+- **🎯 Berkay için:** Burs alma şansı yüksek!
+
+#### 🎓 **Yeditepe Üniversitesi**
+- **Fakülte:** Fen-Edebiyat Fakültesi  
+- **Dil:** İngilizce  
+- **Kontenjan:** 10 burslu / 40 %50  
+- **2025 Taban Sıralama:** 15.000 (burslu) / 550.000 (%50)  
+- **Ücret/Burs:** ~420.000 TL/yıl (%50 burslu için)  
+- **✨ Özellik:** Küçük sınıflar, bireysel ilgi
+- **🎯 Berkay için:** Burs alma şansı yüksek!
 
 ---
 
-### 📍 Diğer Güçlü Devlet Seçenekleri
+### ❌ **Berkay'ın Puanıyla İmkansız Olan Seçenekler**
+*(Referans amaçlı - tercih etmeyin)*
 
-#### 🎓 **Ankara Üniversitesi**
-- **Taban Sıralama:** ~55.000-75.000  
-- **✨ Özellik:** Kapsamlı program, güçlü sosyal psikoloji
+- **Boğaziçi Üniversitesi** (1.500-3.000 taban) - İmkansız
+- **ODTÜ** (8.000-12.000 taban) - İmkansız
+- **Koç Üniversitesi Burslu** (800 taban) - İmkansız
+- **Sabancı Üniversitesi Burslu** (1.200 taban) - İmkansız
 
-#### 🎓 **Ege Üniversitesi**
-- **Taban Sıralama:** ~80.000-110.000  
-- **✨ Özellik:** Deneysel çalışmalar, araştırma odaklı
+### ✅ **Risk Alarak Deneyebileceği Seçenekler**
+*(Son tercihler olarak ekleyebilir)*
 
-#### 🎓 **Galatasaray Üniversitesi**
-- **Dil:** Fransızca/Türkçe  
-- **Taban Sıralama:** ~25.000-40.000  
-- **✨ Özellik:** Çok dilli eğitim, Avrupa bağlantıları
+- **Marmara Üniversitesi** (~20.000-30.000 taban) - Sınırda
+- **Uludağ Üniversitesi** (~25.000-35.000 taban) - Sınırda
 
 ## ⚡ Avantajları
 - İnsanlara yardım etme fırsatı

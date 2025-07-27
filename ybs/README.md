@@ -36,66 +36,54 @@ Yönetim Bilişim Sistemleri, iş dünyası ile teknolojinin kesişim noktasınd
 
 ## 🏫 Üniversite Tercihleri ve Detaylar (2025)
 
-### 📍 En Prestijli Devlet Üniversiteleri
-
-#### 🎓 **Boğaziçi Üniversitesi**
-- **Fakülte:** İktisadi ve İdari Bilimler Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 35  
-- **2025 Taban Sıralama:** ~8.000-15.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** En prestijli YBS programı. Silicon Valley bağlantıları, güçlü mezun ağı.
-
-#### 🎓 **Orta Doğu Teknik Üniversitesi**
-- **Fakülte:** İktisadi ve İdari Bilimler Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 45  
-- **2025 Taban Sıralama:** ~25.000-35.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Güçlü teknik altyapı, araştırma odaklı, mühendislik yaklaşımı.
-
-#### 🎓 **İstanbul Teknik Üniversitesi**
-- **Fakülte:** İşletme Fakültesi  
-- **Dil:** İngilizce/Türkçe  
-- **Kontenjan:** 55  
-- **2025 Taban Sıralama:** ~45.000-65.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Mühendislik odaklı yaklaşım, teknoloji şirketleriyle güçlü bağlantılar.
-
-#### 🎓 **Gazi Üniversitesi**
-- **Fakülte:** İktisadi ve İdari Bilimler Fakültesi  
-- **Dil:** Türkçe  
-- **Kontenjan:** 70  
-- **2025 Taban Sıralama:** ~75.000-95.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Kapsamlı müfredat, kamu ve özel sektör dengeyi.
+### ⚠️ **Berkay'ın EA Puanı: 175.741 - Gerçekçi Seçenekler**
 
 ---
 
-### 📍 Güçlü Özel Üniversiteler
+### 📍 **Berkay'ın Yerleşebileceği Devlet Üniversiteleri**
 
-#### 🎓 **Koç Üniversitesi**
+#### 🎓 **Dokuz Eylül Üniversitesi**
 - **Fakülte:** İktisadi ve İdari Bilimler Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 10 burslu / 30 %50  
-- **2025 Taban Sıralama:** 2.500 (burslu) / 250.000 (%50)  
-- **Ücret/Burs:** ~1.200.000 TL/yıl  
-- **✨ Özellik:** Uluslararası akreditasyon, Valley programları, startup ekosistemi.
+- **Dil:** Türkçe  
+- **Kontenjan:** 55  
+- **2025 Taban Sıralama:** ~190.000-220.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** İş dünyası bağlantıları, İzmir'de teknoparklar
 
-#### 🎓 **Sabancı Üniversitesi**
-- **Fakülte:** Mühendislik ve Doğa Bilimleri Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 8 burslu / 25 %50  
-- **2025 Taban Sıralama:** 3.000 (burslu) / 280.000 (%50)  
-- **Ücret/Burs:** ~1.150.000 TL/yıl  
-- **✨ Özellik:** İnovatif yaklaşım, AI ve data science odaklı.
+#### 🎓 **Marmara Üniversitesi**
+- **Fakülte:** İşletme Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 45  
+- **2025 Taban Sıralama:** ~200.000-240.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** İstanbul'da lokasyon avantajı, iş imkanları
+
+#### 🎓 **Sakarya Üniversitesi**
+- **Fakülte:** İşletme Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 60  
+- **2025 Taban Sıralama:** ~220.000-260.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** Teknoloji firmalarına yakınlık, sanayi işbirlikleri
+
+#### 🎓 **Kocaeli Üniversitesi**
+- **Fakülte:** İktisadi ve İdari Bilimler Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 50  
+- **2025 Taban Sıralama:** ~240.000-280.000  
+- **Ücret/Burs:** Devlet – Ücretsiz  
+- **✨ Özellik:** Sanayi odaklı, staj imkanları bol
+
+---
+
+### 📍 **Özel Üniversite Burs Seçenekleri**
 
 #### 🎓 **İstanbul Bilgi Üniversitesi**
 - **Fakülte:** Mühendislik ve Doğa Bilimleri Fakültesi  
 - **Dil:** İngilizce/Türkçe  
 - **Kontenjan:** 18 burslu / 72 %50  
 - **2025 Taban Sıralama:** 15.000 (burslu) / 650.000 (%50)  
-- **Ücret/Burs:** ~385.000 TL/yıl  
+- **Ücret/Burs:** ~385.000 TL/yıl (%50 burslu için)  
 - **✨ Özellik:** Sektör işbirlikleri, internship programları güçlü.
 
 #### 🎓 **Yeditepe Üniversitesi**
@@ -103,7 +91,7 @@ Yönetim Bilişim Sistemleri, iş dünyası ile teknolojinin kesişim noktasınd
 - **Dil:** İngilizce  
 - **Kontenjan:** 12 burslu / 48 %50  
 - **2025 Taban Sıralama:** 20.000 (burslu) / 850.000 (%50)  
-- **Ücret/Burs:** ~420.000 TL/yıl  
+- **Ücret/Burs:** ~420.000 TL/yıl (%50 burslu için)  
 - **✨ Özellik:** Modern laboratuvarlar, teknoloji odaklı müfredat.
 
 #### 🎓 **Bahçeşehir Üniversitesi**
@@ -111,24 +99,18 @@ Yönetim Bilişim Sistemleri, iş dünyası ile teknolojinin kesişim noktasınd
 - **Dil:** İngilizce  
 - **Kontenjan:** 15 burslu / 60 %50  
 - **2025 Taban Sıralama:** 18.000 (burslu) / 750.000 (%50)  
-- **Ücret/Burs:** ~450.000 TL/yıl  
+- **Ücret/Burs:** ~450.000 TL/yıl (%50 burslu için)  
 - **✨ Özellik:** Uluslararası kampüsler, exchange programları.
 
 ---
 
-### 📍 Diğer Güçlü Devlet Seçenekleri
+### ❌ **Berkay'ın Puanıyla İmkansız Olan Seçenekler**
+*(Referans amaçlı - tercih etmeyin)*
 
-#### 🎓 **Dokuz Eylül Üniversitesi**
-- **Taban Sıralama:** ~85.000-110.000  
-- **✨ Özellik:** İş dünyası bağlantıları, İzmir'de teknoparklar
-
-#### 🎓 **Marmara Üniversitesi**
-- **Taban Sıralama:** ~95.000-125.000  
-- **✨ Özellik:** İstanbul'da lokasyon avantajı, iş imkanları
-
-#### 🎓 **Sakarya Üniversitesi**
-- **Taban Sıralama:** ~120.000-150.000  
-- **✨ Özellik:** Teknoloji firmalarına yakınlık, sanayi işbirlikleri
+- **Boğaziçi Üniversitesi** (8.000-15.000 taban) - Çok yüksek
+- **ODTÜ** (25.000-35.000 taban) - Yüksek  
+- **İTÜ** (45.000-65.000 taban) - Yüksek
+- **Gazi Üniversitesi** (75.000-95.000 taban) - Sınırda ama riskli
 
 ## ⚡ Avantajları
 - Hem teknik hem iş bilgisi kazanma
