@@ -1,4 +1,3 @@
-
 # Berkay'ın 2025 Üniversite Tercih Rehberi
 
 Berkay'ın YKS sonuçları, ilgi alanları ve kişilik envanterlerine göre en uygun üniversite ve bölüm seçeneklerini karşılaştırmalı ve gerçekçi şekilde sunar.
@@ -8,43 +7,43 @@ Berkay'ın YKS sonuçları, ilgi alanları ve kişilik envanterlerine göre en u
 
 ## 📑 İçindekiler
 
-- [Berkay'ın YKS Sonuçları](./berkay-yks-sonuclari.md)
-- [Tercih Stratejisi](./tercih-stratejisi.md)
-- [Kişilik Envanterine Göre Tercih Stratejisi](./envantere-gore-tercih-stratejisi.md)
+- [Berkay'ın YKS Sonuçları](./stratejiler/berkay-yks-sonuclari.md)
+- [Tercih Stratejisi](./stratejiler/tercih-stratejisi.md)
+- [Kişilik Envanterine Göre Tercih Stratejisi](./envanterler/envantere-gore-tercih-stratejisi.md)
 - [Bölüm Karşılaştırma Tablosu](#bölüm-karşılaştırma-tablosu)
 - [Bölüm Detayları](#bölüm-detayları)
-- [Ek Bölüm Önerileri](./ek-bolum-onerileri.md)
-- [Holland Kişilik Tipine Göre Tercih Analizi](./envanter-holland.md)
-- [Anbean Kampüs Kişilik Testi Analizi](./envanter-anbeankampus.md)
+- [Ek Bölüm Önerileri](./stratejiler/ek-bolum-onerileri.md)
+- [Holland Kişilik Tipine Göre Tercih Analizi](./envanterler/envanter-holland.md)
+- [Anbean Kampüs Kişilik Testi Analizi](./envanterler/envanter-anbeankampus.md)
 
 ---
 
 ## 📊 Bölüm Karşılaştırma Tablosu
 
-| Bölüm         | Puan Türü | En Düşük Devlet Sıralaması | Berkay'ın Sırası | Yerleşme Şansı      |
-|-------------- |-----------|----------------------------|------------------|---------------------|
-| **Yeni Medya**| SÖZ       | ~420.000 (Ankara Üni.)     | 22.274           | 🟢 **Çok Yüksek**   |
-| **Psikoloji** | EA        | ~1.500 (Boğaziçi)          | 175.741          | 🟡 **Orta-Zor**     |
-| **YBS**       | EA        | ~8.000 (Boğaziçi)          | 175.741          | 🟡 **Orta**         |
-| **Sosyoloji** | EA        | ~15.000 (Boğaziçi)         | 175.741          | 🟡 **Orta**         |
+| Bölüm         | Puan Türü | Berkay'ın Sırası | Yerleşme Şansı      | Kısa Not |
+|-------------- |-----------|------------------|---------------------|----------|
+| **Yeni Medya**| SÖZ       | 22.274           | 🟢 **Çok Yüksek**   | SÖZ puanında çok avantajlı, devlet ve burslu özel seçenekler güçlü |
+| **Psikoloji** | EA        | 175.741          | 🟡 **Orta-Zor**     | EA ile bazı devlet ve burslu özel üniversiteler mümkün |
+| **YBS**       | EA        | 175.741          | 🟡 **Orta**         | Devlet ve burslu özelde seçenek var, iş olanakları geniş |
+| **Sosyoloji** | EA        | 175.741          | 🟡 **Orta**         | Devlet ve burslu özelde seçenek var, sosyal alanlarda güçlü |
 
 ---
 
 ## 📚 İncelenen Bölümler
 
-### 1. [Yeni Medya](./yeni-medya/)
+### 1. [Yeni Medya](./bolumler/yeni-medya/)
 - Dijital çağın medya teknolojileri ve iletişim araçları
 - Kariyer: Sosyal medya uzmanı, içerik üreticisi, dijital pazarlama
 
-### 2. [Psikoloji](./psikoloji/)
+### 2. [Psikoloji](./bolumler/psikoloji/)
 - İnsan davranışları ve zihinsel süreçlerin bilimsel incelenmesi
 - Kariyer: Klinik psikolog, danışman, araştırmacı
 
-### 3. [Yönetim Bilişim Sistemleri (YBS)](./ybs/)
+### 3. [Yönetim Bilişim Sistemleri (YBS)](./bolumler/ybs/)
 - İş dünyası ve teknolojinin kesişim noktası
 - Kariyer: Sistem analisti, proje yöneticisi, iş analisti
 
-### 4. [Sosyoloji](./sosyoloji/)
+### 4. [Sosyoloji](./bolumler/sosyoloji/)
 - Toplumsal yapılar ve sosyal ilişkilerin incelenmesi
 - Kariyer: Sosyal araştırmacı, NGO uzmanı, kamu yöneticisi
 
@@ -52,8 +51,8 @@ Berkay'ın YKS sonuçları, ilgi alanları ve kişilik envanterlerine göre en u
 
 ## 🧭 Kişilik Envanteri Analizleri
 
-- [Holland Kişilik Tipine Göre Tercih Analizi](./envanter-holland.md)
-- [Anbean Kampüs Kişilik Testi Analizi](./envanter-anbeankampus.md)
+- [Holland Kişilik Tipine Göre Tercih Analizi](./envanterler/envanter-holland.md)
+- [Anbean Kampüs Kişilik Testi Analizi](./envanterler/envanter-anbeankampus.md)
 
 ---
 
@@ -63,13 +62,13 @@ Berkay'ın YKS sonuçları, ilgi alanları ve kişilik envanterlerine göre en u
 - EA puanıyla **Psikoloji, YBS, Sosyoloji** gibi bölümlerde orta seviye devlet ve burslu özel üniversiteler mümkün.
 - İlk tercihlerde SÖZ avantajını kullan, EA bölümlerini yedek ve alternatif olarak değerlendir.
 
-Detaylı strateji ve tercih sıralaması için: [Tercih Stratejisi](./tercih-stratejisi.md)
+Detaylı strateji ve tercih sıralaması için: [Tercih Stratejisi](./stratejiler/tercih-stratejisi.md)
 
 ---
 
 ## 📚 Ek Bölüm ve Alternatifler
 
-Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./ek-bolum-onerileri.md)
+Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./stratejiler/ek-bolum-onerileri.md)
 
 ---
 
@@ -84,19 +83,19 @@ Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./ek-bo
 
 ## 📚 İncelenen Bölümler
 
-### 1. [Yeni Medya](./yeni-medya/)
+### 1. [Yeni Medya](./bolumler/yeni-medya/)
 - Dijital çağın medya teknolojileri ve iletişim araçları
 - Kariyer: Sosyal medya uzmanı, içerik üreticisi, dijital pazarlama
 
-### 2. [Psikoloji](./psikoloji/)
+### 2. [Psikoloji](./bolumler/psikoloji/)
 - İnsan davranışları ve zihinsel süreçlerin bilimsel incelenmesi
 - Kariyer: Klinik psikolog, danışman, araştırmacı
 
-### 3. [Yönetim Bilişim Sistemleri (YBS)](./ybs/)
+### 3. [Yönetim Bilişim Sistemleri (YBS)](./bolumler/ybs/)
 - İş dünyası ve teknolojinin kesişim noktası
 - Kariyer: Sistem analisti, proje yöneticisi, iş analisti
 
-### 4. [Sosyoloji](./sosyoloji/)
+### 4. [Sosyoloji](./bolumler/sosyoloji/)
 - Toplumsal yapılar ve sosyal ilişkilerin incelenmesi
 - Kariyer: Sosyal araştırmacı, NGO uzmanı, kamu yöneticisi
 
@@ -104,8 +103,8 @@ Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./ek-bo
 
 ## 🧭 Kişilik Envanteri Analizleri
 
-- [Holland Kişilik Tipine Göre Tercih Analizi](./envanter-holland.md)
-- [Anbean Kampüs Kişilik Testi Analizi](./envanter-anbeankampus.md)
+- [Holland Kişilik Tipine Göre Tercih Analizi](./envanterler/envanter-holland.md)
+- [Anbean Kampüs Kişilik Testi Analizi](./envanterler/envanter-anbeankampus.md)
 
 ---
 
@@ -115,13 +114,13 @@ Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./ek-bo
 - EA puanıyla **Psikoloji, YBS, Sosyoloji** gibi bölümlerde orta seviye devlet ve burslu özel üniversiteler mümkün.
 - İlk tercihlerde SÖZ avantajını kullan, EA bölümlerini yedek ve alternatif olarak değerlendir.
 
-Detaylı strateji ve tercih sıralaması için: [Tercih Stratejisi](./tercih-stratejisi.md)
+Detaylı strateji ve tercih sıralaması için: [Tercih Stratejisi](./stratejiler/tercih-stratejisi.md)
 
 ---
 
 ## 📚 Ek Bölüm ve Alternatifler
 
-Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./ek-bolum-onerileri.md)
+Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./stratejiler/ek-bolum-onerileri.md)
 
 ---
 
@@ -138,22 +137,22 @@ Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./ek-bo
 ### 1. Yeni Medya
 - **Açıklama**: Dijital çağın medya teknolojileri ve iletişim araçları
 - **Kariyer Olanakları**: Sosyal medya uzmanı, içerik üreticisi, dijital pazarlama
-- **Detaylar**: [Yeni Medya Bölümü](./yeni-medya/)
+- **Detaylar**: [Yeni Medya Bölümü](./bolumler/yeni-medya/)
 
 ### 2. Psikoloji
 - **Açıklama**: İnsan davranışları ve zihinsel süreçlerin bilimsel incelenmesi
 - **Kariyer Olanakları**: Klinik psikolog, danışman, araştırmacı
-- **Detaylar**: [Psikoloji Bölümü](./psikoloji/)
+- **Detaylar**: [Psikoloji Bölümü](./bolumler/psikoloji/)
 
 ### 3. Yönetim Bilişim Sistemleri (YBS)
 - **Açıklama**: İş dünyası ve teknolojinin kesişim noktası
 - **Kariyer Olanakları**: Sistem analisti, proje yöneticisi, iş analisti
-- **Detaylar**: [YBS Bölümü](./ybs/)
+- **Detaylar**: [YBS Bölümü](./bolumler/ybs/)
 
 ### 4. Sosyoloji
 - **Açıklama**: Toplumsal yapılar ve sosyal ilişkilerin incelenmesi
 - **Kariyer Olanakları**: Sosyal araştırmacı, NGO uzmanı, kamu yöneticisi
-- **Detaylar**: [Sosyoloji Bölümü](./sosyoloji/)
+- **Detaylar**: [Sosyoloji Bölümü](./bolumler/sosyoloji/)
 
 ## 🎯 Nasıl Kullanılır?
 
@@ -161,12 +160,12 @@ Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./ek-bo
 2. **Üniversite Rehberi**: 2025 YKS taban puanları, ücretler ve kontenjanlar yer almaktadır
 3. **Kariyer Yolları**: Her bölümde mesleki geleceğe dair kapsamlı bilgiler mevcuttur
 4. **Kişisel Değerlendirme**: Berkay'ın ilgi alanlarına göre uygunluk analizleri yapılmıştır
-5. **YKS Sonuçları**: [Berkay'ın 2024 YKS puan ve sıralama bilgileri](./berkay-yks-sonuclari.md)
-6. **🎯 Tercih Stratejisi**: [Berkay'ın puanlarına göre detaylı tercih rehberi](./tercih-stratejisi.md)
-7. **📚 Ek Bölüm Önerileri**: [Puanlarına uygun diğer bölüm seçenekleri](./ek-bolum-onerileri.md)
+5. **YKS Sonuçları**: [Berkay'ın 2024 YKS puan ve sıralama bilgileri](./stratejiler/berkay-yks-sonuclari.md)
+6. **🎯 Tercih Stratejisi**: [Berkay'ın puanlarına göre detaylı tercih rehberi](./stratejiler/tercih-stratejisi.md)
+7. **📚 Ek Bölüm Önerileri**: [Puanlarına uygun diğer bölüm seçenekleri](./stratejiler/ek-bolum-onerileri.md)
 
-8. **🧭 Holland Kişilik Tipine Göre Tercih Analizi**: [Kişilik envanteri ve uygun bölümler](./envanter-holland.md)
-9. **🧭 Anbean Kampüs Kişilik Testi Analizi**: [Kişilik testi ve uygun meslekler](./envanter-anbeankampus.md)
+8. **🧭 Holland Kişilik Tipine Göre Tercih Analizi**: [Kişilik envanteri ve uygun bölümler](./envanterler/envanter-holland.md)
+9. **🧭 Anbean Kampüs Kişilik Testi Analizi**: [Kişilik testi ve uygun meslekler](./envanterler/envanter-anbeankampus.md)
 
 ### 🎯 **Düzeltilmiş Berkay'ın Avantajları:**
 - **SÖZ Puanı Çok Güçlü**: YENİ MEDYA için mükemmel
