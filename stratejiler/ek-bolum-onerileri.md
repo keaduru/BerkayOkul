@@ -73,7 +73,6 @@ Berkay'ın puanlarına uygun diğer bölüm seçenekleri. Ana 4 bölüm dışın
 - **Taban Sıralama**: ~120.000-250.000
 - **Kariyer**: İnsan kaynakları, pazarlama, yönetici, girişimci
 - **Öne Çıkan Üniversiteler**:
-  - Marmara (~200.000 taban)
   - Sakarya (~220.000 taban)
   - Kocaeli (~240.000 taban)
 

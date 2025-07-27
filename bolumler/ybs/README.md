@@ -50,14 +50,6 @@ Yönetim Bilişim Sistemleri, iş dünyası ile teknolojinin kesişim noktasınd
 - **Ücret/Burs:** Devlet – Ücretsiz  
 - **✨ Özellik:** İş dünyası bağlantıları, İzmir'de teknoparklar
 
-#### 🎓 **Marmara Üniversitesi**
-- **Fakülte:** İşletme Fakültesi  
-- **Dil:** Türkçe  
-- **Kontenjan:** 45  
-- **2025 Taban Sıralama:** ~200.000-240.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** İstanbul'da lokasyon avantajı, iş imkanları
-
 #### 🎓 **Sakarya Üniversitesi**
 - **Fakülte:** İşletme Fakültesi  
 - **Dil:** Türkçe  
@@ -83,7 +75,6 @@ Yönetim Bilişim Sistemleri, iş dünyası ile teknolojinin kesişim noktasınd
 - **Dil:** İngilizce/Türkçe  
 - **Kontenjan:** 18 burslu / 72 %50  
 - **2025 Taban Sıralama:** 15.000 (burslu) / 650.000 (%50)  
-- **Ücret/Burs:** ~385.000 TL/yıl (%50 burslu için)  
 - **✨ Özellik:** Sektör işbirlikleri, internship programları güçlü.
 
 #### 🎓 **Yeditepe Üniversitesi**
