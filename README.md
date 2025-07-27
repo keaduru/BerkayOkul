@@ -5,10 +5,12 @@ Berkay'ın YKS sonuçları, ilgi alanları ve kişilik envanterlerine göre en u
 
 ---
 
+
 ## 📑 İçindekiler
 
 - [Berkay'ın YKS Sonuçları](./berkay-yks-sonuclari.md)
 - [Tercih Stratejisi](./tercih-stratejisi.md)
+- [Kişilik Envanterine Göre Tercih Stratejisi](./envantere-gore-tercih-stratejisi.md)
 - [Bölüm Karşılaştırma Tablosu](#bölüm-karşılaştırma-tablosu)
 - [Bölüm Detayları](#bölüm-detayları)
 - [Ek Bölüm Önerileri](./ek-bolum-onerileri.md)
