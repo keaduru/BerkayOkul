@@ -1,6 +1,17 @@
-# Berkay'ın Üniversite Tercih Rehberi 🎓
+# Berkay'ın Üniversite Tercih Rehberi | Bölüm | Puan Tü### 🎯 **SÖZ Puanıyla (22.274 sıra) - ÖNCELİKLİ SEÇENEKLER**
 
-Bu repo, Berkay'ın üniversite tercih sürecinde doğru kararı vermesine yardımcı olmak amacıyla hazırlanmıştır. İlgilendiği bölümler hakkında detaylı bilgileri burada bulabilirsin.
+#### 🟢 **En Güçlü Alan:**
+1. **YENİ MEDYA** - Kesin yerleşir, tam burs şansı yüksek
+
+#### � **EA Puanıyla (175.741 sıra) - SINIRLI SEÇENEKLER**
+1. **PSİKOLOJİ** - Orta seviye devlet üniversiteleri
+2. **SOSYOLOJI** - Orta seviye devlet üniversiteleri
+3. **YBS** - Orta seviye devlet üniversiteleriüşük Devlet Sıralaması | Berkay'ın Durumu | Yerleşme Şansı |
+|-------|-----------|---------------------------|------------------|----------------|
+| **Psikoloji** | EA | ~1.500 (Boğaziçi) | EA: 175.741 | 🔴 **Zor** |
+| **Yeni Medya** | SÖZ | ~420.000 (Ankara Üni.) | SÖZ: 22.274 | � **Kesin** |
+| **YBS** | EA | ~8.000 (Boğaziçi) | EA: 175.741 | 🟡 **Orta** |
+| **Sosyoloji** | EA | ~15.000 (Boğaziçi) | EA: 175.741 | � **Orta** | repo, Berkay'ın üniversite tercih sürecinde doğru kararı vermesine yardımcı olmak amacıyla hazırlanmıştır. İlgilendiği bölümler hakkında detaylı bilgileri burada bulabilirsin.
 
 ## 📚 İncelenen Bölümler
 
@@ -44,8 +55,8 @@ Bu repo, Berkay'ın üniversite tercih sürecinde doğru kararı vermesine yard�
 | **Sosyoloji** | EA | ~15.000 (Boğaziçi) | EA: 175.741 | � **Orta** |
 
 ### 🎯 **Düzeltilmiş Berkay'ın Avantajları:**
-- **SÖZ Puanı Çok Güçlü**: PSİKOLOJİ ve YENİ MEDYA için mükemmel
-- **EA Puanı Orta**: SOSYOLOJI ve YBS için sınırlı seçenekler
+- **SÖZ Puanı Çok Güçlü**: YENİ MEDYA için mükemmel
+- **EA Puanı Orta**: PSİKOLOJİ, SOSYOLOJI ve YBS için sınırlı seçenekler
 - **Burs Şansı Yüksek**: SÖZ puanıyla özel üniversitelerde tam burs
 
 ## 🎓 Berkay'ın Puanlarına Göre Tercih Stratejisi
@@ -64,12 +75,12 @@ Bu repo, Berkay'ın üniversite tercih sürecinde doğru kararı vermesine yard�
 
 ### 🎯 **DÜZELTİLMİŞ TERCİH SIRASI:**
 
-1. **1-15. Tercihler**: PSİKOLOJİ ve YENİ MEDYA odaklı (SÖZ avantajı)
+1. **1-15. Tercihler**: YENİ MEDYA odaklı (SÖZ avantajı)
 2. **16-35. Tercihler**: Güvenli devlet seçenekleri (tüm bölümler)
-3. **36-50. Tercihler**: EA puanlı yedek seçenekler (SOSYOLOJI/YBS)
+3. **36-50. Tercihler**: EA puanlı seçenekler (PSİKOLOJİ/SOSYOLOJI/YBS)
 
 ### ❌ **HATA DÜZELTİLDİ:**
-**Sosyoloji EA puanıyla alınıyor, SÖZ ile değil! Bu nedenle Berkay için sınırlı seçenekler var.**
+**Psikoloji EA puanıyla alınıyor, SÖZ ile değil! Bu nedenle Berkay için sınırlı seçenekler var.**
 
 ## 📝 Notlar
 

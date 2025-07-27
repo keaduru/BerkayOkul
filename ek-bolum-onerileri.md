@@ -109,24 +109,26 @@ Berkay'ın puanlarına uygun diğer bölüm seçenekleri. Ana 4 bölüm dışın
 ## 🎯 Berkay İçin En Mantıklı Ek Seçenekler
 
 ### 🥇 **SÖZ Puanıyla Öncelikli:**
-1. **Türk Dili ve Edebiyatı** - Öğretmenlik + yaratıcılık
-2. **Tarih** - Akademik kariyer imkanı
-3. **Sanat Tarihi** - Kültür-sanat sektörü
+1. **Yeni Medya** - Ana hedef (tam burs + kesin yerleşir)
+2. **Türk Dili ve Edebiyatı** - Öğretmenlik + yaratıcılık
+3. **Tarih** - Akademik kariyer imkanı
+4. **Sanat Tarihi** - Kültür-sanat sektörü
 
 ### 🥈 **EA Puanıyla Yedek:**
-1. **İktisat** - Analitik düşünme + iş imkanları
-2. **İşletme** - Geniş kariyer seçenekleri
-3. **Kamu Yönetimi** - Devlet sektörü
+1. **Psikoloji** - Orta seviye üniversiteler
+2. **İktisat** - Analitik düşünme + iş imkanları
+3. **İşletme** - Geniş kariyer seçenekleri
+4. **Kamu Yönetimi** - Devlet sektörü
 
 ---
 
 ## 💡 Tercih Stratejisine Entegrasyon
 
 ### **Ana Stratejiyle Birlikte:**
-1. **1-5. Tercih**: Psikoloji + Yeni Medya (Ana hedefler)
+1. **1-5. Tercih**: Yeni Medya (Ana hedef - SÖZ)
 2. **6-15. Tercih**: SÖZ'le güçlü ek bölümler (Türk Dili, Tarih, vb.)
 3. **16-30. Tercih**: Güvenli devlet seçenekleri (Tüm bölümler)
-4. **31-50. Tercih**: EA puanlı yedek seçenekler
+4. **31-50. Tercih**: EA puanlı seçenekler (Psikoloji, Sosyoloji, YBS, İktisat vb.)
 
 ### **🎯 Avantajları:**
 - **SÖZ puanını maksimum kullanma**

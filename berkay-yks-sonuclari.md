@@ -28,14 +28,12 @@
 ## 🎓 Bu Puanlarla Yerleşebileceği Bölümler
 
 ### ✅ **SÖZ Puanıyla Kesin Yerleşebilir:**
-- **Psikoloji** (Birçok devlet üniversitesi)
-- **Sosyoloji** (Prestijli üniversiteler dahil)
 - **Yeni Medya** (Tüm seçenekler açık)
 
 ### 🎯 **EA Puanıyla Değerlendirilebilir:**
+- **Psikoloji** (Orta seviye üniversiteler)
+- **Sosyoloji** (Orta seviye üniversiteler)
 - **YBS** (Orta seviye üniversiteler)
-- **Ekonomi** bölümleri
-- **İşletme** (Bazı üniversiteler)
 
 ### 🔥 **Özel Üniversite Burs Şansı:**
 - SÖZ sırası ile %50-100 burs alma şansı yüksek
@@ -45,9 +43,9 @@
 
 ## 💡 Strateji Önerisi
 
-**1. Öncelik**: SÖZ puanının yüksek olduğu bölümlere odaklan
-**2. Hedef**: Psikoloji ve Sosyoloji ön planda
-**3. Yedek**: YBS ve Yeni Medya seçenekleri
+**1. Öncelik**: SÖZ puanının yüksek olduğu bölümlere odaklan (YENİ MEDYA)
+**2. Hedef**: Yeni Medya ön planda, diğerleri EA puanıyla sınırlı
+**3. Yedek**: Psikoloji, Sosyoloji ve YBS seçenekleri (EA puanıyla)
 **4. Burs**: Özel üniversitelerde burs başvuruları yap
 
 ---

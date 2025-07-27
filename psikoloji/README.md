@@ -1,7 +1,32 @@
 # Psikoloji Bölümü 🧠
 
 ## 🎯 Bölüm Tanımı
-Psikoloji, insan davranışları, zihinsel süreçler, duygular ve bilişsel fonksiyonları bilimsel yöntemlerle inceleyen bir disiplindir. İnsanın nasıl düşündüğü, hissettiği, öğrendiği ve davrandığını anlamaya odaklanır. Hem teorik bilgi hem de pratik uygulama becerileri kazanırsın.
+Psikoloji, insan davranışları, zihinsel süreçler, duygular ve bilişsel fonksiyonları bilimsel yön## 💡 Berkay için Değerlendirme (EA Puanı: 175.741)
+
+🟡 **ORTA SEVİYE SEÇENEK:**
+- Gazi Üniversitesi ve Ankara Üniversitesi gibi devlet seçenekleri mevcut
+- Özel üniversitelerde %25-50 burs şansı var
+- En prestijli üniversiteler (Boğaziçi, Galatasaray, Hacettepe) EA puanıyla zor
+- YENİ MEDYA'ya göre daha sınırlı seçenekler
+
+✅ **Uygun Olabilir Eğer:**
+- İnsanlarla çalışmayı seviyorsan
+- Empati yeteneğin güçlüyse
+- Dinleme ve analiz becerilerin varsa
+- Yardım etmek seni motive ediyorsa
+- EA puanındaki kısıtlı seçenekleri kabul ediyorsan
+
+❌ **Önermiyorum Eğer:**
+- En prestijli üniversiteleri hedefliyorsan
+- SÖZ puanının avantajını kullanmak istiyorsan
+- Daha fazla seçenek istiyorsan
+- Hızlı sonuç almayı tercih ediyorsan
+
+## 🔥 ÖNEMLİ NOTLAR
+- **Psikoloji EA puanıyla alınıyor!** SÖZ ile değil
+- **Tercih sıralamasında 2. öncelik** (YENİ MEDYA'dan sonra)
+- **SOSYOLOJI ve YBS ile benzer EA puan durumu** - hepsi sınırlı seçenekler
+- **Gerçekçi beklenti:** Orta seviye devlet üniversitelerileyen bir disiplindir. İnsanın nasıl düşündüğü, hissettiği, öğrendiği ve davrandığını anlamaya odaklanır. Hem teorik bilgi hem de pratik uygulama becerileri kazanırsın.
 
 ## 📚 Temel Dersler
 - **Genel Psikoloji**: Temel psikolojik süreçler ve teoriler
@@ -31,82 +56,72 @@ Psikoloji, insan davranışları, zihinsel süreçler, duygular ve bilişsel fon
 
 ## 🏫 Üniversite Tercihleri ve Detaylar (2025)
 
-### ⚠️ **Berkay'ın SÖZ Puanı: 22.274 - Çok İyi Sıralama!**
+### ⚠️ **Berkay'ın EA Puanı: 175.741 - Psikoloji Sınırlı Seçenekler!**
 
 ---
 
-### 📍 **Berkay'ın Yerleşebileceği Prestijli Devlet Üniversiteleri**
+### 📍 **Berkay'ın EA Puanıyla Gerçekçi Devlet Üniversiteleri**
 
-#### 🎓 **Galatasaray Üniversitesi**
-- **Fakülte:** Fen-Edebiyat Fakültesi  
-- **Dil:** Fransızca/Türkçe  
-- **Kontenjan:** 25  
-- **2025 Taban Sıralama:** ~25.000-40.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Çok dilli eğitim, Avrupa bağlantıları, prestijli
-
-#### 🎓 **Hacettepe Üniversitesi**
+#### 🎓 **Gazi Üniversitesi** ✅
 - **Fakülte:** Edebiyat Fakültesi  
 - **Dil:** Türkçe  
 - **Kontenjan:** 60  
-- **2025 Taban Sıralama:** ~35.000-50.000  
+- **2025 Taban Sıralama:** ~200.000-250.000  
 - **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Klinik odaklı eğitim, hastane bağlantıları güçlü.
+- **✨ Özellik:** Uygulamalı psikoloji, klinik deneyim imkanları.
+- **🎯 Berkay için:** Kesin yerleşir!
 
-#### 🎓 **İstanbul Üniversitesi**
-- **Fakülte:** Edebiyat Fakültesi  
-- **Dil:** Türkçe  
-- **Kontenjan:** 85  
-- **2025 Taban Sıralama:** ~45.000-65.000  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Köklü gelenek, kapsamlı klinik imkanlar.
-
-#### 🎓 **Ankara Üniversitesi**
+#### 🎓 **Ankara Üniversitesi** 🎯
 - **Fakülte:** Dil ve Tarih-Coğrafya Fakültesi  
 - **Dil:** Türkçe  
 - **Kontenjan:** 70  
-- **2025 Taban Sıralama:** ~55.000-75.000  
+- **2025 Taban Sıralama:** ~160.000-190.000  
 - **Ücret/Burs:** Devlet – Ücretsiz  
-- **✨ Özellik:** Kapsamlı program, güçlü sosyal psikoloji
+- **✨ Özellik:** Köklü geleneği, güçlü teorik altyapı
+- **🎯 Berkay için:** Sınırda ama mümkün!
 
-#### 🎓 **Ege Üniversitesi**
+#### 🎓 **Ege Üniversitesi** 🎯
 - **Fakülte:** Edebiyat Fakültesi  
 - **Dil:** Türkçe  
 - **Kontenjan:** 55  
-- **2025 Taban Sıralama:** ~80.000-110.000  
+- **2025 Taban Sıralama:** ~170.000-200.000  
 - **Ücret/Burs:** Devlet – Ücretsiz  
 - **✨ Özellik:** Deneysel çalışmalar, araştırma odaklı
+- **🎯 Berkay için:** Sınırda ama mümkün!
+
+#### ❌ **Boğaziçi, Galatasaray ve Hacettepe** - EA Puanıyla İmkansız
+- **Boğaziçi Psikoloji:** ~1.500-3.000 sıra gerekli
+- **Galatasaray Psikoloji:** ~25.000-40.000 sıra gerekli  
+- **Hacettepe Psikoloji:** ~35.000-50.000 sıra gerekli
+- **Berkay'ın EA Sırası:** 175.741 - Yetmiyor!
 
 ---
 
-### 📍 **Özel Üniversite Burs Şansı Yüksek**
+### 📍 **Özel Üniversite - EA Puanıyla Burs Şansları**
 
-#### 🎓 **İstanbul Bilgi Üniversitesi**
-- **Fakülte:** Sosyal ve Beşeri Bilimler Fakültesi  
-- **Dil:** İngilizce/Türkçe  
-- **Kontenjan:** 15 burslu / 60 %50  
-- **2025 Taban Sıralama:** 8.000 (burslu) / 450.000 (%50)  
-- **Ücret/Burs:** ~385.000 TL/yıl (%50 burslu için)  
-- **✨ Özellik:** Praktik odaklı müfredat, klinik deneyim imkanları.
-- **🎯 Berkay için:** Burs alma şansı çok yüksek!
-
-#### 🎓 **Bahçeşehir Üniversitesi**
-- **Fakülte:** İnsani ve Toplumsal Bilimler Fakültesi  
-- **Dil:** İngilizce/Türkçe  
-- **Kontenjan:** 12 burslu / 48 %50  
-- **2025 Taban Sıralama:** 12.000 (burslu) / 650.000 (%50)  
-- **Ücret/Burs:** ~450.000 TL/yıl (%50 burslu için)  
-- **✨ Özellik:** Modern laboratuvarlar, uluslararası akademik kadro.
-- **🎯 Berkay için:** Burs alma şansı yüksek!
-
-#### 🎓 **Yeditepe Üniversitesi**
+#### 🎓 **Işık Üniversitesi** ✅
 - **Fakülte:** Fen-Edebiyat Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 10 burslu / 40 %50  
-- **2025 Taban Sıralama:** 15.000 (burslu) / 550.000 (%50)  
-- **Ücret/Burs:** ~420.000 TL/yıl (%50 burslu için)  
-- **✨ Özellik:** Küçük sınıflar, bireysel ilgi
-- **🎯 Berkay için:** Burs alma şansı yüksek!
+- **Dil:** Türkçe  
+- **Kontenjan:** 40 (%25-50 burs)  
+- **2025 Taban Sıralama:** ~300.000 (%25-50 burs)  
+- **Ücret/Burs:** %25-50 burs şansı yüksek  
+- **✨ Özellik:** Praktik odaklı müfredat, klinik deneyim imkanları.
+- **🎯 Berkay için:** Burs alma şansı var!
+
+#### 🎓 **Okan Üniversitesi** ✅
+- **Fakülte:** İnsan ve Toplum Bilimleri Fakültesi  
+- **Dil:** Türkçe  
+- **Kontenjan:** 30 (%25-50 burs)  
+- **2025 Taban Sıralama:** ~250.000 (%25-50 burs)  
+- **Ücret/Burs:** %25-50 burs mümkün  
+- **✨ Özellik:** Modern laboratuvarlar, uluslararası akademik kadro.
+- **🎯 Berkay için:** İyi bir seçenek!
+
+#### ❌ **İstanbul Bilgi, Bahçeşehir, Yeditepe** - EA Puanıyla Burs İmkansız
+- **İstanbul Bilgi Burslu:** ~8.000-15.000 sıra gerekli
+- **Bahçeşehir Burslu:** ~12.000-20.000 sıra gerekli
+- **Yeditepe Burslu:** ~15.000-25.000 sıra gerekli
+- **Berkay'ın EA Sırası:** 175.741 - Burs için yetmiyor!
 
 ---
 
