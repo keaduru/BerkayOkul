@@ -46,6 +46,7 @@
 7. **📚 Ek Bölüm Önerileri**: [Puanlarına uygun diğer bölüm seçenekleri](./ek-bolum-onerileri.md)
 
 8. **🧭 Holland Kişilik Tipine Göre Tercih Analizi**: [Kişilik envanteri ve uygun bölümler](./envanter-holland.md)
+9. **🧭 Anbean Kampüs Kişilik Testi Analizi**: [Kişilik testi ve uygun meslekler](./envanter-anbeankampus.md)
 
 ## 📊 Hızlı Karşılaştırma Tablosu
 
