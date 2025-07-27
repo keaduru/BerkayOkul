@@ -1,87 +1,84 @@
-# 🎓 Yeni Medya ve İletişim Bölümü – Tanıtım ve Üniversite Rehberi (2024)
+# Berkay'ın Üniversite Tercih Rehberi 🎓
 
-## 📘 Bölüm Tanıtımı (Türkçe)
+Bu repo, Berkay'ın üniversite tercih sürecinde doğru kararı vermesine yardımcı olmak amacıyla hazırlanmıştır. İlgilendiği bölümler hakkında detaylı bilgileri burada bulabilirsin.
 
-**Yeni Medya ve İletişim**, klasik medyanın ötesine geçerek dijital çağın gereksinimlerine cevap veren disiplinler arası bir bölümdür. İnteraktif medya, sosyal medya, dijital içerik üretimi, veri görselleştirme, yapay zekâ ile medya, web tasarımı, video prodüksiyon gibi alanlarda eğitim verir.
+## 📚 İncelenen Bölümler
 
-- Geleneksel medya kuramlarıyla dijital teknolojileri birleştirir.
-- Hem teorik (medya kuramları, eleştirel medya okuryazarlığı) hem uygulamalı (video, grafik, web, sosyal medya yönetimi) eğitim verir.
-- Öğrenciler, medya dünyasında çok yönlü üretici olabilecek bilgi ve becerilerle donatılır.
+### 1. Yeni Medya
+- **Açıklama**: Dijital çağın medya teknolojileri ve iletişim araçları
+- **Kariyer Olanakları**: Sosyal medya uzmanı, içerik üreticisi, dijital pazarlama
+- **Detaylar**: [Yeni Medya Bölümü](./yeni-medya/)
+
+### 2. Psikoloji
+- **Açıklama**: İnsan davranışları ve zihinsel süreçlerin bilimsel incelenmesi
+- **Kariyer Olanakları**: Klinik psikolog, danışman, araştırmacı
+- **Detaylar**: [Psikoloji Bölümü](./psikoloji/)
+
+### 3. Yönetim Bilişim Sistemleri (YBS)
+- **Açıklama**: İş dünyası ve teknolojinin kesişim noktası
+- **Kariyer Olanakları**: Sistem analisti, proje yöneticisi, iş analisti
+- **Detaylar**: [YBS Bölümü](./ybs/)
+
+### 4. Sosyoloji
+- **Açıklama**: Toplumsal yapılar ve sosyal ilişkilerin incelenmesi
+- **Kariyer Olanakları**: Sosyal araştırmacı, NGO uzmanı, kamu yöneticisi
+- **Detaylar**: [Sosyoloji Bölümü](./sosyoloji/)
+
+## 🎯 Nasıl Kullanılır?
+
+1. **Bölüm Detayları**: Her bölüm için ayrı klasörlerde detaylı bilgiler bulunmaktadır
+2. **Üniversite Rehberi**: 2025 YKS taban puanları, ücretler ve kontenjanlar yer almaktadır
+3. **Kariyer Yolları**: Her bölümde mesleki geleceğe dair kapsamlı bilgiler mevcuttur
+4. **Kişisel Değerlendirme**: Berkay'ın ilgi alanlarına göre uygunluk analizleri yapılmıştır
+
+## 📊 Hızlı Karşılaştırma Tablosu
+
+| Bölüm | En Düşük Devlet Sıralaması | En Düşük Özel Burs | Ortalama Maaş (Başlangıç) |
+|-------|---------------------------|-------------------|------------------------|
+| **Yeni Medya** | ~420.000 (Ankara Üni.) | ~2.500 (İstanbul Bilgi) | 18.000-30.000 TL |
+| **Psikoloji** | ~1.500 (Boğaziçi) | ~800 (Koç Üni.) | 15.000-25.000 TL |
+| **YBS** | ~8.000 (Boğaziçi) | ~2.500 (Koç Üni.) | 25.000-40.000 TL |
+| **Sosyoloji** | ~15.000 (Boğaziçi) | ~8.000 (Koç Üni.) | 12.000-20.000 TL |
+
+## 🎓 Tercih Stratejisi
+
+### 💪 **Yüksek Puan Senaryosu (1-50.000)**
+- **1. Tercih**: Boğaziçi YBS / Psikoloji
+- **2. Tercih**: ODTÜ YBS / Psikoloji  
+- **3. Tercih**: Koç Üniversitesi (Burslu)
+
+### 🎯 **Orta Puan Senaryosu (50.000-200.000)**
+- **1. Tercih**: İstanbul Üni. Psikoloji
+- **2. Tercih**: İTÜ YBS
+- **3. Tercih**: Sabancı Üniversitesi (Burslu)
+
+### 📈 **Güvenli Seçenekler (200.000+)**
+- **1. Tercih**: Gazi YBS
+- **2. Tercih**: Ankara Üni. Yeni Medya
+- **3. Tercih**: İstanbul Bilgi (%50 Burslu)
+
+## 📝 Notlar
+
+Bu rehber, Berkay'ın kendi ilgi alanları ve hedeflerini göz önünde bulundurarak hazırlanmıştır. Her bölüm için objektif bilgiler sunulmaya çalışılmıştır.
+
+## 📅 2025 Güncellemesi
+
+- **Taban Puanlar**: YKS 2025 sonuçlarına göre güncellenmiştir
+- **Ücretler**: 2025-2026 akademik yılı için geçerlidir  
+- **Kontenjanlar**: YÖK onayı ile değişiklik gösterebilir
+- **Son Kontrol**: Tercih öncesi mutlaka üniversitelerin resmi sitelerini kontrol edin
+
+## ⚠️ Disclaimer
+
+Bu rehberdeki bilgiler genel rehberlik amaçlıdır. Kesin kararlar alırken:
+- Üniversitelerin resmi web sitelerini ziyaret edin
+- Güncel YKS kılavuzunu inceleyin  
+- Üniversite tanıtım günlerine katılın
+- Mezunlarla iletişime geçin
+- Kendi ilgi ve yeteneklerinizi öncelikleyin
 
 ---
 
-## 🎯 Akademik ve Kariyer Geleceği
+**Not**: Bu rehber sürekli güncellenecektir. Yeni sorular ve bulgular eklendikçe içerik zenginleştirilecektir.
 
-### Akademik:
-- Yüksek lisans ve doktora: Medya Çalışmaları, Dijital Kültür, İletişim Bilimleri, Yapay Zekâ ve Medya gibi alanlarda yapılabilir.
-- Akademik yayıncılık, medya araştırmaları ve dijital medya kuramları üzerine çalışma imkânı.
-
-### Kariyer:
-- **Sosyal Medya Uzmanı**  
-- **Dijital Pazarlama Uzmanı**  
-- **Video Editörü / YouTuber / İçerik Üreticisi**  
-- **Web & Mobil İçerik Yöneticisi**  
-- **Dijital Medya Danışmanı / Ajanslarda Kreatif Uzman**  
-- **Yeni Medya Girişimcisi (freelancer ya da startup)**  
-
-> Bölümün mezunları kamuda medya birimlerinde, özel sektörde reklam ajanslarında, medya kuruluşlarında veya kendi içerik kanallarını kurarak kariyer yapabilir.
-
----
-
-## 🏛 Ankara ve İstanbul’da Yeni Medya ve İletişim Bölümü Olan Üniversiteler (2024)
-
-### 📍 Ankara
-
-#### 1. **Ankara Üniversitesi**
-- **Fakülte:** İletişim Fakültesi  
-- **Dil:** Türkçe  
-- **Kontenjan:** 30+1  
-- **2024 Taban Sıralama:** ~406.879  
-- **Ücret/Burs:** Devlet – Ücretsiz  
-- **Tanıtım:** Türkiye'nin en köklü üniversitelerinden biri. Teorik altyapısı güçlü. Kamu kurumları ve akademi için ideal.
-
-#### 2. **Ankara Bilim Üniversitesi**
-- **Fakülte:** Güzel Sanatlar ve Tasarım Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 8 burslu + 1 ek  
-- **2024 Taban Sıralama:** ~86.557 (burslu)  
-- **Ücret/Burs:** Vakıf – Burslu / %50 İndirimli  
-- **Tanıtım:** Yeni kurulan genç üniversite. Tasarım ve teknoloji odaklı. İngilizce eğitim avantajı var.
-
----
-
-### 📍 İstanbul
-
-#### 3. **İstanbul Bilgi Üniversitesi**
-- **Fakülte:** İletişim Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 11 burslu / 75 %50  
-- **2024 Taban Sıralama:** 2.355 (burslu) / 782.651 (%50)  
-- **Ücret/Burs:** ~317.000 TL/yıl (indirimli)  
-- **Tanıtım:** Medya sektörüyle doğrudan bağlantılı, uygulamalı eğitim çok güçlü. Mezunları sektörde öne çıkıyor.
-
-#### 4. **İstanbul Aydın Üniversitesi**
-- **Fakülte:** İletişim Fakültesi  
-- **Dil:** Türkçe  
-- **Kontenjan:** 10 burslu / 59 %50  
-- **2024 Taban Sıralama:** 26.438 (burslu) / 875.963 (%50)  
-- **Ücret/Burs:** ~150.000 TL/yıl  
-- **Tanıtım:** İçerik üretimine dayalı pratik eğitim verir. Girişimciliği destekleyen bir yapıdadır.
-
-#### 5. **İstanbul Gelişim Üniversitesi**
-- **Fakülte:** Uygulamalı Bilimler Fakültesi  
-- **Dil:** İngilizce  
-- **Kontenjan:** 5 burslu / 25 %50  
-- **2024 Taban Sıralama:** 62.200 (burslu) / 1.368.982 (%50)  
-- **Ücret/Burs:** ~195.455 TL/yıl  
-- **Tanıtım:** Modern altyapısı, video prodüksiyon ve yeni medya teknolojilerine uygun yapısıyla dikkat çeker.
-
----
-
-## 📌 Sonuç & Öneri
-
-- **Devlet seçeneği olarak Ankara Üniversitesi**, sağlam teorik zemin sunar, akademik kariyer düşünenler için idealdir.
-- **İngilizce eğitim isteyenler**, Ankara Bilim veya İstanbul Bilgi gibi seçenekleri değerlendirmelidir.
-- **Uygulamalı içerik ve freelance odaklı ilerlemek isteyenler** için İstanbul Aydın ve Gelişim tercih edilebilir.
-
---- 
+*İyi tercihler! 🌟*
