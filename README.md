@@ -25,7 +25,7 @@ Berkay'ın YKS sonuçları, ilgi alanları ve kişilik envanterlerine göre en u
 | **Psikoloji** | EA        | ~1.500 (Boğaziçi)          | 175.741          | 🟡 **Orta-Zor**     |
 | **YBS**       | EA        | ~8.000 (Boğaziçi)          | 175.741          | 🟡 **Orta**         |
 | **Sosyoloji** | EA        | ~15.000 (Boğaziçi)         | 175.741          | 🟡 **Orta**         |
-
+| **Yeni Medya** | SÖZ | ~420.000 (Ankara Üni.) | SÖZ: 22.274 | 🟢 **Kesin** |
 ---
 
 ## 📚 İncelenen Bölümler
@@ -119,9 +119,9 @@ Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./ek-bo
 | Bölüm | Puan Türü | En Düşük Devlet Sıralaması | Berkay'ın Durumu | Yerleşme Şansı |
 |-------|-----------|---------------------------|------------------|----------------|
 | **Psikoloji** | SÖZ | ~1.500 (Boğaziçi) | SÖZ: 22.274 | 🟢 **İyi** |
-| **Yeni Medya** | SÖZ | ~420.000 (Ankara Üni.) | SÖZ: 22.274 | � **Kesin** |
+| **Yeni Medya** | SÖZ | ~420.000 (Ankara Üni.) | SÖZ: 22.274 | 🟢 **Çok Yüksek** |
 | **YBS** | EA | ~8.000 (Boğaziçi) | EA: 175.741 | 🟡 **Orta** |
-| **Sosyoloji** | EA | ~15.000 (Boğaziçi) | EA: 175.741 | � **Orta** |
+| **Sosyoloji** | EA | ~15.000 (Boğaziçi) | EA: 175.741 | 🟡 **Orta** |
 
 ### 🎯 **Düzeltilmiş Berkay'ın Avantajları:**
 - **SÖZ Puanı Çok Güçlü**: YENİ MEDYA için mükemmel
