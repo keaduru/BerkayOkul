@@ -1,3 +1,29 @@
+## 💡 Berkay için Değerlendirme (EA Puanı: 175.741)
+
+
+
+✅ **Uygun Olabilir Eğer:**
+  - Toplumsal meselelere duyarlıysan
+  - İnsan ilişkilerini analiz etmeyi seviyorsan
+  - Okumaya ve yazmaya ilgin varsa
+  - Eleştirel düşünme yeteneğin güçlüyse
+
+
+
+## 🔥 ÖNEMLİ NOTLAR
+  - **Sosyoloji EA puanıyla alınıyor!** SÖZ ile değil
+  - **Tercih sıralamasında 3. öncelik** (PSİKOLOJİ ve YENİ MEDYA'dan sonra)
+  - **YBS ile benzer EA puan durumu**
+
+## 🔥 Özel Notlar
+ - Sosyoloji, **hayata bakış açını** değiştirecek bir bölüm
+ - **Çifte anadal** yaparak diğer alanlarla kombinleyebilirsin
+ - **Yurt dışı** deneyimi bu bölüm için çok değerli
+ - **Yazma becerisi** sosyoloji mezunları için kritik
+ - **Toplumsal projeler** portföyünü güçlendirir
+
+---
+ [← Ana Sayfaya Dön](../README.md)
 # Sosyoloji Bölümü 🌍
 
 ## 🎯 Bölüm Tanımı
@@ -40,11 +66,11 @@ Sosyoloji, toplumsal yapıları, sosyal ilişkileri, grup davranışlarını ve 
 
 ## 🏫 Üniversite Tercihleri ve Detaylar (2025)
 
-### ⚠️ **Berkay'ın EA Puanı: 175.741 - Sosyoloji Sınırlı Seçenekler!**
+### ⚠️ **Berkay'ın EA Puanı: 175.741**
 
 ---
 
-### 📍 **Berkay'ın EA Puanıyla Gerçekçi Devlet Seçenekleri**
+### 📍 **Berkay'ın EA Puanıyla Ulaşılabilir Devlet Seçenekleri**
 
 #### 🎓 **Ankara Üniversitesi** ✅
 - **Fakülte:** Dil ve Tarih-Coğrafya Fakültesi  
@@ -53,7 +79,7 @@ Sosyoloji, toplumsal yapıları, sosyal ilişkileri, grup davranışlarını ve 
 - **2025 Taban Sıralama:** ~180.000-220.000  
 - **Ücret/Burs:** Devlet – Ücretsiz  
 - **✨ Özellik:** Köklü sosyoloji geleneği, güçlü teorik altyapı.
-- **🎯 Berkay için:** Yerleşme şansı yüksek!
+- **🎯 Berkay için:** Ulaşılabilir bir hedef!
 
 #### 🎓 **Gazi Üniversitesi** ✅
 - **Fakülte:** Edebiyat Fakültesi  
@@ -62,7 +88,7 @@ Sosyoloji, toplumsal yapıları, sosyal ilişkileri, grup davranışlarını ve 
 - **2025 Taban Sıralama:** ~200.000-250.000  
 - **Ücret/Burs:** Devlet – Ücretsiz  
 - **✨ Özellik:** Uygulamalı sosyoloji, saha çalışması odaklı eğitim.
-- **🎯 Berkay için:** Kesin yerleşir!
+- **🎯 Berkay için:** Ulaşılabilir bir hedef!
 
 #### 🎓 **Ege Üniversitesi** 🎯
 - **Fakülte:** Edebiyat Fakültesi  
@@ -71,12 +97,9 @@ Sosyoloji, toplumsal yapıları, sosyal ilişkileri, grup davranışlarını ve 
 - **2025 Taban Sıralama:** ~160.000-190.000  
 - **Ücret/Burs:** Devlet – Ücretsiz  
 - **✨ Özellik:** Modern sosyoloji yaklaşımı, araştırma odaklı.
-- **🎯 Berkay için:** Sınırda ama mümkün!
+- **🎯 Berkay için:** Ulaşılabilir bir hedef!
 
-#### ❌ **Boğaziçi ve Galatasaray** - EA Puanıyla İmkansız
-- **Boğaziçi Sosyoloji:** ~15.000-25.000 sıra gerekli
-- **Galatasaray Sosyoloji:** ~20.000-30.000 sıra gerekli
-- **Berkay'ın EA Sırası:** 175.741 - Yetmiyor!  
+
 ---
 
 ### 📍 **Özel Üniversite - EA Puanıyla Burs Şansları**
@@ -99,13 +122,7 @@ Sosyoloji, toplumsal yapıları, sosyal ilişkileri, grup davranışlarını ve 
 - **✨ Özellik:** Sosyal medya ve dijital sosyoloji odaklı.
 - **🎯 Berkay için:** İyi bir seçenek!
 
-#### ❌ **Koç ve Sabancı** - EA Puanıyla Burs İmkansız
-- **Koç Sosyoloji Burslu:** ~8.000-15.000 sıra gerekli
-- **Sabancı Sosyoloji Burslu:** ~12.000-20.000 sıra gerekli
-- **Berkay'ın EA Sırası:** 175.741 - Burs için yetmiyor!  
-- **Ücret/Burs:** TAMAMEN ÜCRETSİZ (burslu)  
-- **✨ Özellik:** İnterdisipliner program, eleştirel sosyal teoriler.
-- **🎯 Berkay için:** %50-100 burs alma şansı yüksek!
+
 
 #### 🎓 **İstanbul Bilgi Üniversitesi** 🏆
 - **Fakülte:** Sosyal ve Beşeri Bilimler Fakültesi  
@@ -114,32 +131,15 @@ Sosyoloji, toplumsal yapıları, sosyal ilişkileri, grup davranışlarını ve 
 - **2025 Taban Sıralama:** 25.000 (burslu) / 750.000 (%50)  
 - **Ücret/Burs:** ~385.000 TL/yıl (%50 burslu için)  
 - **✨ Özellik:** Eleştirel sosyoloji, toplumsal hareketler odaklı.
-- **🎯 Berkay için:** Kesin burs alır!
+- **🎯 Berkay için:** Burs alma şansı yüksek!
 
 ---
 
-### 🎯 **Berkay'ın Tercih Stratejisi**
 
-#### 🥇 **1-5. Tercihler (Riskli ama Değer):**
-1. Boğaziçi Sosyoloji
-2. Koç Üniversitesi Sosyoloji (Burslu)
-3. Sabancı Üniversitesi Sosyoloji (Burslu)
-4. Galatasaray Sosyoloji
-5. ODTÜ Sosyoloji (risk)
-
-#### 🥈 **6-15. Tercihler (Güvenli Seçenekler):**
-6. İstanbul Üni. Sosyoloji
-7. Ankara Üni. Sosyoloji  
-8. Hacettepe Sosyoloji
-9. İstanbul Bilgi Sosyoloji (%50 burs)
-10. Ege Üni. Sosyoloji
 
 ---
 
-### ❌ **İmkansız Olan Seçenekler**
-*(Sosyoloji için çok az yer var)*
 
-- **ODTÜ Sosyoloji** (15.000-25.000 taban) - Riskli ama deneyebilir
 
 ## ⚡ Avantajları
 - Toplumsal sorunlara çözüm arama
@@ -151,12 +151,8 @@ Sosyoloji, toplumsal yapıları, sosyal ilişkileri, grup davranışlarını ve 
 - Araştırma ve analiz becerileri
 
 ## ⚠️ Dikkat Edilmesi Gerekenler
-- Sınırlı doğrudan iş imkanları
-- Lisansüstü eğitim gerekliliği
-- Nispeten düşük başlangıç maaşları
-- Akademik kariyer için uzun süreç
-- İş bulma sürecinde network önemli
-- Teorik ağırlıklı müfredat
+  - Lisansüstü eğitim gerekliliği
+  - Teorik ağırlıklı müfredat
 
 ## 📈 Gelecek Perspektifi
 - Sosyal medya ve dijital toplum araştırmaları

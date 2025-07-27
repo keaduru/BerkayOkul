@@ -21,11 +21,63 @@ Berkay'ın YKS sonuçları, ilgi alanları ve kişilik envanterlerine göre en u
 
 | Bölüm         | Puan Türü | En Düşük Devlet Sıralaması | Berkay'ın Sırası | Yerleşme Şansı      |
 |-------------- |-----------|----------------------------|------------------|---------------------|
-| **Yeni Medya**| SÖZ       | ~420.000 (Ankara Üni.)     | 22.274           | � **Çok Yüksek**   |
+| **Yeni Medya**| SÖZ       | ~420.000 (Ankara Üni.)     | 22.274           | 🟢 **Çok Yüksek**   |
 | **Psikoloji** | EA        | ~1.500 (Boğaziçi)          | 175.741          | 🟡 **Orta-Zor**     |
 | **YBS**       | EA        | ~8.000 (Boğaziçi)          | 175.741          | 🟡 **Orta**         |
 | **Sosyoloji** | EA        | ~15.000 (Boğaziçi)         | 175.741          | 🟡 **Orta**         |
-| **Yeni Medya** | SÖZ | ~420.000 (Ankara Üni.) | SÖZ: 22.274 | 🟢 **Kesin** |
+
+---
+
+## 📚 İncelenen Bölümler
+
+### 1. [Yeni Medya](./yeni-medya/)
+- Dijital çağın medya teknolojileri ve iletişim araçları
+- Kariyer: Sosyal medya uzmanı, içerik üreticisi, dijital pazarlama
+
+### 2. [Psikoloji](./psikoloji/)
+- İnsan davranışları ve zihinsel süreçlerin bilimsel incelenmesi
+- Kariyer: Klinik psikolog, danışman, araştırmacı
+
+### 3. [Yönetim Bilişim Sistemleri (YBS)](./ybs/)
+- İş dünyası ve teknolojinin kesişim noktası
+- Kariyer: Sistem analisti, proje yöneticisi, iş analisti
+
+### 4. [Sosyoloji](./sosyoloji/)
+- Toplumsal yapılar ve sosyal ilişkilerin incelenmesi
+- Kariyer: Sosyal araştırmacı, NGO uzmanı, kamu yöneticisi
+
+---
+
+## 🧭 Kişilik Envanteri Analizleri
+
+- [Holland Kişilik Tipine Göre Tercih Analizi](./envanter-holland.md)
+- [Anbean Kampüs Kişilik Testi Analizi](./envanter-anbeankampus.md)
+
+---
+
+## 🎯 Kısa Tercih Stratejisi
+
+- SÖZ puanıyla **Yeni Medya** bölümlerinde çok güçlü, tam burs ve devlet garantisi var.
+- EA puanıyla **Psikoloji, YBS, Sosyoloji** gibi bölümlerde orta seviye devlet ve burslu özel üniversiteler mümkün.
+- İlk tercihlerde SÖZ avantajını kullan, EA bölümlerini yedek ve alternatif olarak değerlendir.
+
+Detaylı strateji ve tercih sıralaması için: [Tercih Stratejisi](./tercih-stratejisi.md)
+
+---
+
+## 📚 Ek Bölüm ve Alternatifler
+
+Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./ek-bolum-onerileri.md)
+
+---
+
+## ℹ️ Notlar & Uyarılar
+
+- Tüm bilgiler 2025 YKS sonuçlarına ve güncel taban puanlara göre hazırlanmıştır.
+- Tercih öncesi mutlaka üniversitelerin resmi sitelerini ve YÖK Atlas'ı kontrol edin.
+- Kendi ilgi ve yeteneklerinizi önceliklendirin.
+
+*İyi tercihler!* 🌟
 ---
 
 ## 📚 İncelenen Bölümler
@@ -113,15 +165,6 @@ Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./ek-bo
 
 8. **🧭 Holland Kişilik Tipine Göre Tercih Analizi**: [Kişilik envanteri ve uygun bölümler](./envanter-holland.md)
 9. **🧭 Anbean Kampüs Kişilik Testi Analizi**: [Kişilik testi ve uygun meslekler](./envanter-anbeankampus.md)
-
-## 📊 Hızlı Karşılaştırma Tablosu
-
-| Bölüm | Puan Türü | En Düşük Devlet Sıralaması | Berkay'ın Durumu | Yerleşme Şansı |
-|-------|-----------|---------------------------|------------------|----------------|
-| **Psikoloji** | SÖZ | ~1.500 (Boğaziçi) | SÖZ: 22.274 | 🟢 **İyi** |
-| **Yeni Medya** | SÖZ | ~420.000 (Ankara Üni.) | SÖZ: 22.274 | 🟢 **Çok Yüksek** |
-| **YBS** | EA | ~8.000 (Boğaziçi) | EA: 175.741 | 🟡 **Orta** |
-| **Sosyoloji** | EA | ~15.000 (Boğaziçi) | EA: 175.741 | 🟡 **Orta** |
 
 ### 🎯 **Düzeltilmiş Berkay'ın Avantajları:**
 - **SÖZ Puanı Çok Güçlü**: YENİ MEDYA için mükemmel

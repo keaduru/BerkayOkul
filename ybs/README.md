@@ -104,13 +104,7 @@ Yönetim Bilişim Sistemleri, iş dünyası ile teknolojinin kesişim noktasınd
 
 ---
 
-### ❌ **Berkay'ın Puanıyla İmkansız Olan Seçenekler**
-*(Referans amaçlı - tercih etmeyin)*
 
-- **Boğaziçi Üniversitesi** (8.000-15.000 taban) - Çok yüksek
-- **ODTÜ** (25.000-35.000 taban) - Yüksek  
-- **İTÜ** (45.000-65.000 taban) - Yüksek
-- **Gazi Üniversitesi** (75.000-95.000 taban) - Sınırda ama riskli
 
 ## ⚡ Avantajları
 - Hem teknik hem iş bilgisi kazanma

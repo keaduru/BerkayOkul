@@ -3,30 +3,21 @@
 ## 🎯 Bölüm Tanımı
 Psikoloji, insan davranışları, zihinsel süreçler, duygular ve bilişsel fonksiyonları bilimsel yön## 💡 Berkay için Değerlendirme (EA Puanı: 175.741)
 
-🟡 **ORTA SEVİYE SEÇENEK:**
-- Gazi Üniversitesi ve Ankara Üniversitesi gibi devlet seçenekleri mevcut
-- Özel üniversitelerde %25-50 burs şansı var
-- En prestijli üniversiteler (Boğaziçi, Galatasaray, Hacettepe) EA puanıyla zor
-- YENİ MEDYA'ya göre daha sınırlı seçenekler
+
 
 ✅ **Uygun Olabilir Eğer:**
-- İnsanlarla çalışmayı seviyorsan
-- Empati yeteneğin güçlüyse
-- Dinleme ve analiz becerilerin varsa
-- Yardım etmek seni motive ediyorsa
-- EA puanındaki kısıtlı seçenekleri kabul ediyorsan
+  - İnsanlarla çalışmayı seviyorsan
+  - Empati yeteneğin güçlüyse
+  - Dinleme ve analiz becerilerin varsa
+  - Yardım etmek seni motive ediyorsa
 
-❌ **Önermiyorum Eğer:**
-- En prestijli üniversiteleri hedefliyorsan
-- SÖZ puanının avantajını kullanmak istiyorsan
-- Daha fazla seçenek istiyorsan
-- Hızlı sonuç almayı tercih ediyorsan
+
 
 ## 🔥 ÖNEMLİ NOTLAR
-- **Psikoloji EA puanıyla alınıyor!** SÖZ ile değil
-- **Tercih sıralamasında 2. öncelik** (YENİ MEDYA'dan sonra)
-- **SOSYOLOJI ve YBS ile benzer EA puan durumu** - hepsi sınırlı seçenekler
-- **Gerçekçi beklenti:** Orta seviye devlet üniversitelerileyen bir disiplindir. İnsanın nasıl düşündüğü, hissettiği, öğrendiği ve davrandığını anlamaya odaklanır. Hem teorik bilgi hem de pratik uygulama becerileri kazanırsın.
+  - **Psikoloji EA puanıyla alınıyor!** SÖZ ile değil
+  - **Tercih sıralamasında 2. öncelik** (YENİ MEDYA'dan sonra)
+  - **SOSYOLOJI ve YBS ile benzer EA puan durumu**
+  - Psikoloji, insanın nasıl düşündüğü, hissettiği, öğrendiği ve davrandığını anlamaya odaklanır. Hem teorik bilgi hem de pratik uygulama becerileri kazanırsın.
 
 ## 📚 Temel Dersler
 - **Genel Psikoloji**: Temel psikolojik süreçler ve teoriler
@@ -56,11 +47,11 @@ Psikoloji, insan davranışları, zihinsel süreçler, duygular ve bilişsel fon
 
 ## 🏫 Üniversite Tercihleri ve Detaylar (2025)
 
-### ⚠️ **Berkay'ın EA Puanı: 175.741 - Psikoloji Sınırlı Seçenekler!**
+### ⚠️ **Berkay'ın EA Puanı: 175.741**
 
 ---
 
-### 📍 **Berkay'ın EA Puanıyla Gerçekçi Devlet Üniversiteleri**
+### 📍 **Berkay'ın EA Puanıyla Ulaşılabilir Devlet Üniversiteleri**
 
 #### 🎓 **Gazi Üniversitesi** ✅
 - **Fakülte:** Edebiyat Fakültesi  
@@ -78,7 +69,7 @@ Psikoloji, insan davranışları, zihinsel süreçler, duygular ve bilişsel fon
 - **2025 Taban Sıralama:** ~160.000-190.000  
 - **Ücret/Burs:** Devlet – Ücretsiz  
 - **✨ Özellik:** Köklü geleneği, güçlü teorik altyapı
-- **🎯 Berkay için:** Sınırda ama mümkün!
+- **🎯 Berkay için:** Ulaşılabilir bir hedef!
 
 #### 🎓 **Ege Üniversitesi** 🎯
 - **Fakülte:** Edebiyat Fakültesi  
@@ -87,13 +78,9 @@ Psikoloji, insan davranışları, zihinsel süreçler, duygular ve bilişsel fon
 - **2025 Taban Sıralama:** ~170.000-200.000  
 - **Ücret/Burs:** Devlet – Ücretsiz  
 - **✨ Özellik:** Deneysel çalışmalar, araştırma odaklı
-- **🎯 Berkay için:** Sınırda ama mümkün!
+- **🎯 Berkay için:** Ulaşılabilir bir hedef!
 
-#### ❌ **Boğaziçi, Galatasaray ve Hacettepe** - EA Puanıyla İmkansız
-- **Boğaziçi Psikoloji:** ~1.500-3.000 sıra gerekli
-- **Galatasaray Psikoloji:** ~25.000-40.000 sıra gerekli  
-- **Hacettepe Psikoloji:** ~35.000-50.000 sıra gerekli
-- **Berkay'ın EA Sırası:** 175.741 - Yetmiyor!
+
 
 ---
 
@@ -106,7 +93,7 @@ Psikoloji, insan davranışları, zihinsel süreçler, duygular ve bilişsel fon
 - **2025 Taban Sıralama:** ~300.000 (%25-50 burs)  
 - **Ücret/Burs:** %25-50 burs şansı yüksek  
 - **✨ Özellik:** Praktik odaklı müfredat, klinik deneyim imkanları.
-- **🎯 Berkay için:** Burs alma şansı var!
+- **🎯 Berkay için:** Burs alma şansı yüksek!
 
 #### 🎓 **Okan Üniversitesi** ✅
 - **Fakülte:** İnsan ve Toplum Bilimleri Fakültesi  
@@ -115,29 +102,15 @@ Psikoloji, insan davranışları, zihinsel süreçler, duygular ve bilişsel fon
 - **2025 Taban Sıralama:** ~250.000 (%25-50 burs)  
 - **Ücret/Burs:** %25-50 burs mümkün  
 - **✨ Özellik:** Modern laboratuvarlar, uluslararası akademik kadro.
-- **🎯 Berkay için:** İyi bir seçenek!
+- **🎯 Berkay için:** Uygun bir seçenek!
 
-#### ❌ **İstanbul Bilgi, Bahçeşehir, Yeditepe** - EA Puanıyla Burs İmkansız
-- **İstanbul Bilgi Burslu:** ~8.000-15.000 sıra gerekli
-- **Bahçeşehir Burslu:** ~12.000-20.000 sıra gerekli
-- **Yeditepe Burslu:** ~15.000-25.000 sıra gerekli
-- **Berkay'ın EA Sırası:** 175.741 - Burs için yetmiyor!
+
 
 ---
 
-### ❌ **Berkay'ın Puanıyla İmkansız Olan Seçenekler**
-*(Referans amaçlı - tercih etmeyin)*
 
-- **Boğaziçi Üniversitesi** (1.500-3.000 taban) - İmkansız
-- **ODTÜ** (8.000-12.000 taban) - İmkansız
-- **Koç Üniversitesi Burslu** (800 taban) - İmkansız
-- **Sabancı Üniversitesi Burslu** (1.200 taban) - İmkansız
 
-### ✅ **Risk Alarak Deneyebileceği Seçenekler**
-*(Son tercihler olarak ekleyebilir)*
 
-- **Marmara Üniversitesi** (~20.000-30.000 taban) - Sınırda
-- **Uludağ Üniversitesi** (~25.000-35.000 taban) - Sınırda
 
 ## ⚡ Avantajları
 - İnsanlara yardım etme fırsatı
@@ -148,12 +121,9 @@ Psikoloji, insan davranışları, zihinsel süreçler, duygular ve bilişsel fon
 - Araştırma yapma imkanları
 
 ## ⚠️ Dikkat Edilmesi Gerekenler
-- Lisansüstü eğitim gerekliliği (klinik için)
-- Duygusal olarak zorlu vakalarla çalışma
-- Uzun eğitim süreci
-- Sürekli mesleki gelişim gereksinimi
-- Yoğun akademik müfredat
-- Pratik deneyim bulma zorluğu
+  - Lisansüstü eğitim gerekliliği (klinik için)
+  - Sürekli mesleki gelişim gereksinimi
+  - Yoğun akademik müfredat
 
 ## 📈 Gelecek Perspektifi
 - Ruh sağlığı farkındalığının artması
@@ -170,11 +140,7 @@ Psikoloji, insan davranışları, zihinsel süreçler, duygular ve bilişsel fon
 - Yardım etmek seni motive ediyorsa
 - Uzun eğitim sürecine hazırsan
 
-❌ **Uygun Olmayabilir Eğer:**
-- Hızlı sonuç almayı tercih ediyorsan
-- Duygusal yükü ağır işlerden kaçınıyorsan
-- Akademik yoğunluktan hoşlanmıyorsan
-- İnsan ilişkilerinde zorlanıyorsan
+
 
 ---
 [← Ana Sayfaya Dön](../README.md)
