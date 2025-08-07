@@ -254,7 +254,7 @@ Bu rehberdeki bilgiler genel rehberlik amaçlıdır. Kesin kararlar alırken:
 
 **En önemli şey:** Sevdiğin bir alanda çalışmak! Para önemli ama mutluluk daha önemli.
 
-**Amcan her zaman yanında!** 💪
+**Kenan abi her zaman yanında!** 💪
 
 *Soru varsa sor, karar senin ama yalnız değilsin!* 😊
 
