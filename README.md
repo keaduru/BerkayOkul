@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # 🎓 Berkay'ın Üniversite Rehberi
 
 Merhaba Berkay! 👋
@@ -17,7 +18,7 @@ Merhaba Berkay! 👋
 
 ## 🤔 Nasıl Karar Vereceğim?
 
-1. **Ne yapmaktan hoşlanıyorsun?** 
+1. **Ne yapmaktan hoşlanıyorsun?**
 2. **Hangi konular seni sıkmıyor?**
 3. **İş imkanları nasıl?**
 4. **Maaş beklentin ne?**
@@ -30,8 +31,8 @@ Merhaba Berkay! 👋
 
 ---
 
-*Soru varsa sor, karar senin ama yalnız değilsin!* 😊
-=======
+# _Soru varsa sor, karar senin ama yalnız değilsin!_ 😊
+
 # 🎓 Berkay'ın 2025 Üniversite Tercih Rehberi
 
 Merhaba Berkay! 👋
@@ -55,30 +56,34 @@ Berkay'ın YKS sonuçları, ilgi alanları ve kişilik envanterlerine göre en u
 
 ## 📊 Bölüm Karşılaştırma Tablosu
 
-| Bölüm         | Puan Türü | Berkay'ın Sırası | Yerleşme Şansı      | Kısa Not |
-|-------------- |-----------|------------------|---------------------|----------|
-| **Yeni Medya**| SÖZ       | 22.274           | 🟢 **Çok Yüksek**   | SÖZ puanında çok avantajlı, devlet ve burslu özel seçenekler güçlü |
-| **Psikoloji** | EA        | 175.741          | 🟡 **Orta-Zor**     | EA ile bazı devlet ve burslu özel üniversiteler mümkün |
-| **YBS**       | EA        | 175.741          | 🟡 **Orta**         | Devlet ve burslu özelde seçenek var, iş olanakları geniş |
-| **Sosyoloji** | EA        | 175.741          | 🟡 **Orta**         | Devlet ve burslu özelde seçenek var, sosyal alanlarda güçlü |
+| Bölüm          | Puan Türü | Berkay'ın Sırası | Yerleşme Şansı    | Kısa Not                                                           |
+| -------------- | --------- | ---------------- | ----------------- | ------------------------------------------------------------------ |
+| **Yeni Medya** | SÖZ       | 22.274           | 🟢 **Çok Yüksek** | SÖZ puanında çok avantajlı, devlet ve burslu özel seçenekler güçlü |
+| **Psikoloji**  | EA        | 175.741          | 🟡 **Orta-Zor**   | EA ile bazı devlet ve burslu özel üniversiteler mümkün             |
+| **YBS**        | EA        | 175.741          | 🟡 **Orta**       | Devlet ve burslu özelde seçenek var, iş olanakları geniş           |
+| **Sosyoloji**  | EA        | 175.741          | 🟡 **Orta**       | Devlet ve burslu özelde seçenek var, sosyal alanlarda güçlü        |
 
 ---
 
 ## 📚 İncelenen Bölümler
 
 ### 1. [Yeni Medya](./bolumler/yeni-medya/)
+
 - Dijital çağın medya teknolojileri ve iletişim araçları
 - Kariyer: Sosyal medya uzmanı, içerik üreticisi, dijital pazarlama
 
 ### 2. [Psikoloji](./bolumler/psikoloji/)
+
 - İnsan davranışları ve zihinsel süreçlerin bilimsel incelenmesi
 - Kariyer: Klinik psikolog, danışman, araştırmacı
 
 ### 3. [Yönetim Bilişim Sistemleri (YBS)](./bolumler/ybs/)
+
 - İş dünyası ve teknolojinin kesişim noktası
 - Kariyer: Sistem analisti, proje yöneticisi, iş analisti
 
 ### 4. [Sosyoloji](./bolumler/sosyoloji/)
+
 - Toplumsal yapılar ve sosyal ilişkilerin incelenmesi
 - Kariyer: Sosyal araştırmacı, NGO uzmanı, kamu yöneticisi
 
@@ -113,24 +118,27 @@ Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./strat
 - Tercih öncesi mutlaka üniversitelerin resmi sitelerini ve YÖK Atlas'ı kontrol edin.
 - Kendi ilgi ve yeteneklerinizi önceliklendirin.
 
-*İyi tercihler!* 🌟
----
+## _İyi tercihler!_ 🌟
 
 ## 📚 İncelenen Bölümler
 
 ### 1. [Yeni Medya](./bolumler/yeni-medya/)
+
 - Dijital çağın medya teknolojileri ve iletişim araçları
 - Kariyer: Sosyal medya uzmanı, içerik üreticisi, dijital pazarlama
 
 ### 2. [Psikoloji](./bolumler/psikoloji/)
+
 - İnsan davranışları ve zihinsel süreçlerin bilimsel incelenmesi
 - Kariyer: Klinik psikolog, danışman, araştırmacı
 
 ### 3. [Yönetim Bilişim Sistemleri (YBS)](./bolumler/ybs/)
+
 - İş dünyası ve teknolojinin kesişim noktası
 - Kariyer: Sistem analisti, proje yöneticisi, iş analisti
 
 ### 4. [Sosyoloji](./bolumler/sosyoloji/)
+
 - Toplumsal yapılar ve sosyal ilişkilerin incelenmesi
 - Kariyer: Sosyal araştırmacı, NGO uzmanı, kamu yöneticisi
 
@@ -165,26 +173,30 @@ Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./strat
 - Tercih öncesi mutlaka üniversitelerin resmi sitelerini ve YÖK Atlas'ı kontrol edin.
 - Kendi ilgi ve yeteneklerinizi önceliklendirin.
 
-*İyi tercihler!* 🌟
+_İyi tercihler!_ 🌟
 
 ## 📚 İncelenen Bölümler
 
 ### 1. Yeni Medya
+
 - **Açıklama**: Dijital çağın medya teknolojileri ve iletişim araçları
 - **Kariyer Olanakları**: Sosyal medya uzmanı, içerik üreticisi, dijital pazarlama
 - **Detaylar**: [Yeni Medya Bölümü](./bolumler/yeni-medya/)
 
 ### 2. Psikoloji
+
 - **Açıklama**: İnsan davranışları ve zihinsel süreçlerin bilimsel incelenmesi
 - **Kariyer Olanakları**: Klinik psikolog, danışman, araştırmacı
 - **Detaylar**: [Psikoloji Bölümü](./bolumler/psikoloji/)
 
 ### 3. Yönetim Bilişim Sistemleri (YBS)
+
 - **Açıklama**: İş dünyası ve teknolojinin kesişim noktası
 - **Kariyer Olanakları**: Sistem analisti, proje yöneticisi, iş analisti
 - **Detaylar**: [YBS Bölümü](./bolumler/ybs/)
 
 ### 4. Sosyoloji
+
 - **Açıklama**: Toplumsal yapılar ve sosyal ilişkilerin incelenmesi
 - **Kariyer Olanakları**: Sosyal araştırmacı, NGO uzmanı, kamu yöneticisi
 - **Detaylar**: [Sosyoloji Bölümü](./bolumler/sosyoloji/)
@@ -203,6 +215,7 @@ Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./strat
 9. **🧭 Anbean Kampüs Kişilik Testi Analizi**: [Kişilik testi ve uygun meslekler](./envanterler/envanter-anbeankampus.md)
 
 ### 🎯 **Düzeltilmiş Berkay'ın Avantajları:**
+
 - **SÖZ Puanı Çok Güçlü**: YENİ MEDYA için mükemmel
 - **EA Puanı Orta**: PSİKOLOJİ, SOSYOLOJI ve YBS için sınırlı seçenekler
 - **Burs Şansı Yüksek**: SÖZ puanıyla özel üniversitelerde tam burs
@@ -212,10 +225,12 @@ Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./strat
 ### 🎯 **SÖZ Puanıyla (22.274 sıra) - ÖNCELİKLİ SEÇENEKLER**
 
 #### 🟢 **En Güçlü Alanlar:**
+
 1. **PSİKOLOJİ** - Galatasaray'a bile şans var!
 2. **YENİ MEDYA** - Kesin yerleşir, tam burs şansı yüksek
 
 #### � **EA Puanıyla (175.741 sıra) - SINIRLI SEÇENEKLER**
+
 1. **SOSYOLOJI** - Orta seviye devlet üniversiteleri
 2. **YBS** - Orta seviye devlet üniversiteleri
 
@@ -228,6 +243,7 @@ Daha fazla bölüm ve kariyer alternatifi için: [Ek Bölüm Önerileri](./strat
 3. **36-50. Tercihler**: EA puanlı seçenekler (PSİKOLOJİ/SOSYOLOJI/YBS)
 
 ### ❌ **HATA DÜZELTİLDİ:**
+
 **Psikoloji EA puanıyla alınıyor, SÖZ ile değil! Bu nedenle Berkay için sınırlı seçenekler var.**
 
 ## 📝 Notlar
@@ -237,15 +253,16 @@ Bu rehber, Berkay'ın kendi ilgi alanları ve hedeflerini göz önünde bulundur
 ## 📅 2025 Güncellemesi
 
 - **Taban Puanlar**: YKS 2025 sonuçlarına göre güncellenmiştir
-- **Ücretler**: 2025-2026 akademik yılı için geçerlidir  
+- **Ücretler**: 2025-2026 akademik yılı için geçerlidir
 - **Kontenjanlar**: YÖK onayı ile değişiklik gösterebilir
 - **Son Kontrol**: Tercih öncesi mutlaka üniversitelerin resmi sitelerini kontrol edin
 
 ## ⚠️ Disclaimer
 
 Bu rehberdeki bilgiler genel rehberlik amaçlıdır. Kesin kararlar alırken:
+
 - Üniversitelerin resmi web sitelerini ziyaret edin
-- Güncel YKS kılavuzunu inceleyin  
+- Güncel YKS kılavuzunu inceleyin
 - Üniversite tanıtım günlerine katılın
 - Mezunlarla iletişime geçin
 - Kendi ilgi ve yeteneklerinizi öncelikleyin
@@ -256,8 +273,8 @@ Bu rehberdeki bilgiler genel rehberlik amaçlıdır. Kesin kararlar alırken:
 
 **Kenan abi her zaman yanında!** 💪
 
-*Soru varsa sor, karar senin ama yalnız değilsin!* 😊
+_Soru varsa sor, karar senin ama yalnız değilsin!_ 😊
 
 **Not**: Bu rehber sürekli güncellenecektir. Yeni sorular ve bulgular eklendikçe içerik zenginleştirilecektir.
 
-*İyi tercihler! 🌟*
+_İyi tercihler! 🌟_
